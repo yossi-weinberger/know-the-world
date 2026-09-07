@@ -1,0 +1,1023 @@
+[
+  {
+    "code": "FR",
+    "field": "representative.descriptionHe",
+    "replacement": "מִגְדַּל אֵיפֶל נִבְנָה בְּפָרִיז לִכְבוֹד הַתַּעֲרוּכָה הָעוֹלָמִית שֶׁל 1889. הוּא אֶחָד מִסְּמָלֶיהָ הַמֻּכָּרִים שֶׁל צָרְפַת.",
+    "url": "https://www.toureiffel.paris/en/the-monument/universal-exhibition",
+    "title": "Eiffel Tower — World's Fair",
+    "publisher": "Société d’Exploitation de la Tour Eiffel",
+    "evidence": "Removed unsupported most-visited ranking; construction for 1889 fair.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "GB",
+    "field": "representative.descriptionHe",
+    "replacement": "בִּיג בֶּן הוּא שְׁמוֹ שֶׁל הַפַּעֲמוֹן הַגָּדוֹל בְּמִגְדַּל אֱלִיזָבֶּת שֶׁבְּלוֹנְדוֹן. בַּמִּגְדָּל נִמְצָא גַּם שָׁעוֹן גָּדוֹל בַּעַל אַרְבָּעָה לוּחוֹת.",
+    "url": "https://www.parliament.uk/about/living-heritage/building/palace/architecture/palacestructure/towers-of-parliament/",
+    "title": "Towers of Parliament",
+    "publisher": "UK Parliament",
+    "evidence": "Big Ben is the bell, Elizabeth Tower is the tower; four clock faces.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "DE",
+    "field": "representative.descriptionHe",
+    "replacement": "יוֹהַאנֶס גּוּטֶנְבֶּרְג פִּתֵּחַ בְּגֶרְמַנְיָה בַּמֵּאָה הַ־15 שִׁיטַת דְּפוּס שֶׁעָזְרָה לְהָפִיץ סְפָרִים בְּאֵירוֹפָּה. בְּקוֹרֵיאָה הִדְפִּיסוּ בְּאוֹתִיּוֹת מַתֶּכֶת נָעוֹת עוֹד לְפָנָיו.",
+    "url": "https://www.bnf.fr/en/jikji-treasure-world-printing",
+    "title": "Jikji, a treasure of the world of printing",
+    "publisher": "Bibliothèque nationale de France",
+    "evidence": "Jikji printed 1377, 78 years before Gutenberg Bible; does not support global invention claim.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "BG",
+    "field": "funFactHe",
+    "replacement": "הַכְּתָב הַקִּירִילִי הִתְפַּתֵּחַ בְּבוּלְגַּרְיָה בְּסוֹף הַמֵּאָה הַ־9 וּבְרֵאשִׁית הַמֵּאָה הַ־10. הוּא נִקְרָא לִכְבוֹד קִירִיל, וּמְשַׁמֵּשׁ כַּיּוֹם לִכְתִיבַת כַּמָּה שָׂפוֹת.",
+    "url": "https://ibl.bas.bg/en/bulgarian-alphabets/",
+    "title": "Bulgarian alphabets",
+    "publisher": "Institute for Bulgarian Language, Bulgarian Academy of Sciences",
+    "evidence": "Authorship uncertain; named for Cyril, not invented by Cyril and Methodius.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "NO",
+    "field": "funFactHe",
+    "replacement": "בִּצְפוֹן נוֹרְבֶגְיָה, מֵעֵבֶר לְחוּג הַקֹּטֶב, יֵשׁ תְּקוּפָה בַּקַּיִץ שֶׁבָּהּ הַשֶּׁמֶשׁ אֵינָהּ שׁוֹקַעַת. הַתּוֹפָעָה נִקְרֵאת שֶׁמֶשׁ חֲצוֹת.",
+    "url": "https://www.visitnorway.com/things-to-do/nature-attractions/midnight-sun/",
+    "title": "Midnight sun",
+    "publisher": "Visit Norway",
+    "evidence": "Polar-day phenomenon limited geographically, not entire country.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "FI",
+    "field": "funFactHe",
+    "replacement": "בִּצְפוֹן פִינְלַנְד, מֵעֵבֶר לְחוּג הַקֹּטֶב, יֵשׁ בַּקַּיִץ יָמִים שֶׁבָּהֶם הַשֶּׁמֶשׁ זוֹרַחַת גַּם בַּחֲצוֹת. בִּדְרוֹם הַמְּדִינָה הַלֵּילוֹת קְצָרִים וּבְהִירִים.",
+    "url": "https://www.visitfinland.com/en/articles/land-of-the-midnight-sun/",
+    "title": "Land of the midnight sun",
+    "publisher": "Visit Finland",
+    "evidence": "Midnight sun occurs in northern Finland; southern summer nights are bright.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "LV",
+    "field": "funFactHe",
+    "replacement": "בִּשְׁנַת 1989 יָצְרוּ תּוֹשָׁבֵי לַטְבִיָּה, לִיטָא וְאֶסְטוֹנְיָה שַׁרְשֶׁרֶת אֱנוֹשִׁית בְּאֹרֶךְ שֶׁל כְּ־600 קִילוֹמֶטֶר, בִּדְרִישָׁה לְחֹפֶשׁ.",
+    "url": "https://www.unesco.org/en/memory-world/baltic-way-human-chain-linking-three-states-their-drive-freedom",
+    "title": "The Baltic Way",
+    "publisher": "UNESCO",
+    "evidence": "Event on 23 August 1989, not 1991; approximately 600 km.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "BA",
+    "field": "representative.descriptionHe",
+    "replacement": "בְּמוֹסְטָר עוֹמֵד גֶּשֶׁר אֶבֶן מְקֻמָּר מֵעַל נְהַר נֶרֶטְבָה. הַגֶּשֶׁר הַהִיסְטוֹרִי נֶהֱרַס וְנִבְנָה מֵחָדָשׁ בִּשְׁנַת 2004.",
+    "url": "https://whc.unesco.org/en/list/946/",
+    "title": "Old Bridge Area of the Old City of Mostar",
+    "publisher": "UNESCO",
+    "evidence": "Present bridge is reconstructed, not intact original.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "NI",
+    "field": "funFactHe",
+    "replacement": "בַּאֲגַם נִיקָרָגוּאָה תֹּעֲדוּ כְּרִישִׁים שׁוֹרִיִּים, הַמְּסֻגָּלִים לִחְיוֹת גַּם בְּמַיִם מְתוּקִים וְגַם בַּיָּם. הֵם יְכוֹלִים לַעֲבֹר בֵּין הָאֲגַם לַיָּם דֶּרֶךְ נְהָרוֹת.",
+    "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/bull-shark/",
+    "title": "Bull Shark",
+    "publisher": "Florida Museum, University of Florida",
+    "evidence": "Lake Nicaragua, not Apoyeque; ocean access; not unique freshwater shark population.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "IN",
+    "field": "representative.descriptionHe",
+    "replacement": "הַטִּיגְרִיס הַבֶּנְגָּלִי הוּא בַּעַל הַחַיִּים הַלְּאֻמִּי שֶׁל הוֹדּוּ. גּוּפוֹ מְכֻסֶּה פַּסִּים כֵּהִים, וְהוּא טוֹרֵף גָּדוֹל וְחָזָק.",
+    "url": "https://www.eoibudapest.gov.in/page/india-facts/",
+    "title": "India Facts — National animal",
+    "publisher": "Embassy of India, Budapest",
+    "evidence": "National tiger, dark stripes and powerful carnivore; removed largest subspecies claim.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "ID",
+    "field": "representative.descriptionHe",
+    "replacement": "דְּרָקוֹן קוֹמוֹדוֹ הוּא הַלְּטָאָה הַגְּדוֹלָה בְּיוֹתֵר בָּעוֹלָם, וְהוּא יָכוֹל לְהַגִּיעַ לְאֹרֶךְ שֶׁל כְּ־3 מֶטְרִים. בַּטֶּבַע הוּא חַי בְּכַמָּה אִיִּים בְּאִינְדּוֹנֶזְיָה.",
+    "url": "https://nationalzoo.si.edu/animals/komodo-dragon",
+    "title": "Komodo dragon",
+    "publisher": "Smithsonian National Zoo",
+    "evidence": "Lives on several Indonesian islands, not exclusively Komodo.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "JO",
+    "field": "representative.descriptionHe",
+    "replacement": "פֶּטְרָה הִיא עִיר עַתִּיקָה שֶׁל הַנַּבָּטִים בְּיַרְדֵּן. חֵלֶק מִמִּבְנֶיהָ נֶחְצְבוּ בְּסֶלַע אֲדַמְדַּם, וַאֲחֵרִים נִבְנוּ מֵאֲבָנִים.",
+    "url": "https://whc.unesco.org/en/list/326/",
+    "title": "Petra",
+    "publisher": "UNESCO",
+    "evidence": "Half-built, half-carved; not entire city carved in stone.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "SA",
+    "field": "funFactHe",
+    "replacement": "בַּעֲרָב הַסְּעוּדִית נִמְצָאִים מַאֲגָרֵי נֵפְט גְּדוֹלִים מְאֹד. בִּשְׁנַת 2023 הָיוּ בָּהּ כְּ־17% מֵעֲתוּדוֹת הַנֵּפְט הַמֻּכָּחוֹת בָּעוֹלָם.",
+    "url": "https://www.eia.gov/international/analysis/country/SAU",
+    "title": "Saudi Arabia Country Analysis",
+    "publisher": "US Energy Information Administration",
+    "evidence": "17% in 2023; removed false largest-reserves ranking and added reference year.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "OM",
+    "field": "funFactHe",
+    "replacement": "כְּבָר לִפְנֵי אַלְפֵי שָׁנִים סָחֲרוּ תּוֹשָׁבֵי עוֹמַאן דֶּרֶךְ הַיָּם בִּנְחֹשֶׁת וּבִסְחוֹרוֹת נוֹסָפוֹת. בִּתְקוּפוֹת מְאֻחָרוֹת יוֹתֵר הִגִּיעוּ קִשְׁרֵי הַמִּסְחָר שֶׁלָּהֶם עַד סִין וּמִזְרַח אַפְרִיקָה.",
+    "url": "https://www.nm.gov.om/uploadsall/Publications/e92bae0e-dcce-43b3-8ea8-706e9f330de1.pdf",
+    "title": "National Museum guide — Maritime history",
+    "publisher": "National Museum of Oman",
+    "evidence": "Separates third-millennium BCE trade from later links to China/East Africa; Zambia has no coast.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "PE",
+    "field": "funFactHe",
+    "replacement": "חַקְלָאִים בְּהָרֵי הָאַנְדִּים גִּדְּלוּ תַּפּוּחֵי אֲדָמָה כְּבָר לִפְנֵי אלפי שנים שָׁנָה. כַּיּוֹם גְּדֵלִים בָּאֵזוֹר אַלְפֵי זָנִים בִּצְבָעִים וּבְצוּרוֹת שׁוֹנִים.",
+    "url": "https://cipotato.org/potato/native-potato-varieties/",
+    "title": "Native potato varieties",
+    "publisher": "International Potato Center",
+    "evidence": "Domestication predates Inca empire by millennia; removed sweet-potato highland origin.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "HT",
+    "field": "representative.descriptionHe",
+    "replacement": "הָאִיטִי נִמְצֵאת בְּחֶלְקוֹ הַמַּעֲרָבִי שֶׁל הָאִי הִיסְפַּנְיוֹלָה שֶׁבַּיָּם הַקָּרִיבִּי. יֵשׁ בָּהּ הָרִים תְּלוּלִים וְחוֹפִים.",
+    "url": "https://documents1.worldbank.org/curated/en/099439105092242185/pdf/IDU0ccefd1a201a7204dc50968c0709c4347da84.pdf",
+    "title": "Haiti country environmental analysis",
+    "publisher": "World Bank",
+    "evidence": "Country occupies western part of an island, not a peninsula.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "MA",
+    "field": "representative.descriptionHe",
+    "replacement": "עֵץ הָאַרְגָּן מֻכָּר בִּמְיֻחָד מִמָּרוֹקוֹ. מֵהַזְּרָעִים שֶׁבְּתוֹךְ פֵּרוֹתָיו מְפִיקִים שֶׁמֶן הַמְשַׁמֵּשׁ לְבִשּׁוּל וּלְטִפּוּחַ.",
+    "url": "https://www.kew.org/plants/argan-tree",
+    "title": "Argan tree",
+    "publisher": "Royal Botanic Gardens, Kew",
+    "evidence": "Native range also includes Algeria, Mauritania, Western Sahara; not exclusively Morocco.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "ET",
+    "field": "representative.descriptionHe",
+    "replacement": "קָפֶה עֲרָבִיקָה גָּדֵל בַּטֶּבַע בַּיְּעָרוֹת הָהֲרָרִיִּים שֶׁל אֶתְיוֹפִּיָה וּדְרוֹם סוּדָן. מִזְּרָעָיו הַקְּלוּיִים מְכִינִים אֶת מַשְׁקֵה הַקָּפֶה.",
+    "url": "https://www.kew.org/plants/arabica-coffee",
+    "title": "Arabica coffee",
+    "publisher": "Royal Botanic Gardens, Kew",
+    "evidence": "Native range includes South Sudan; remove invention/legend presented as fact.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "MG",
+    "field": "representative.descriptionHe",
+    "replacement": "בְּמַדָגַסְקָר חַיִּים מִינִים רַבִּים שֶׁל לֶמוּרִים. אֵצֶל לֶמוּרִים הַפְּעִילִים בַּלַּיְלָה, הָעֵינַיִם מַחֲזִירוֹת אוֹר וְכָךְ מְסַיְּעוֹת לִרְאִיָּה בְּאוֹר חַלָּשׁ.",
+    "url": "https://lemur.duke.edu/nocturnal/",
+    "title": "Nocturnal lemurs",
+    "publisher": "Duke Lemur Center",
+    "evidence": "Tapetum reflects light, does not generate light.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "AU",
+    "field": "representative.descriptionHe",
+    "replacement": "הַקֶּנְגּוּרוּ הוּא מֵחַיּוֹתֶיהָ הַמֻּכָּרוֹת שֶׁל אוֹסְטְרַלְיָה. הַנְּקֵבָה נוֹשֵׂאת אֶת הַגּוּר בַּכִּיס שֶׁעַל בִּטְנָהּ. יֵשׁ גַּם קֶנְגּוּרוּ עֵצִים הַחַיִּים בְּגִינֵאָה הַחֲדָשָׁה.",
+    "url": "https://animals.sandiegozoo.org/animals/kangaroo-and-wallaby",
+    "title": "Kangaroo and wallaby",
+    "publisher": "San Diego Zoo Wildlife Alliance",
+    "evidence": "Kangaroo range broader than Australia; removed undated human/kangaroo comparison.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "RW",
+    "field": "funFactHe",
+    "replacement": "בְּרוּאַנְדָה מִתְקַיֵּם בְּיוֹם הַשַּׁבָּת הָאַחֲרוֹן בְּכָל חֹדֶשׁ יוֹם עֲבוֹדָה קְהִלָּתִי בְּשֵׁם אוּמוּגַנְדָה. הַתּוֹשָׁבִים מִשְׁתַּתְּפִים בְּפְרוֹיֶקְטִים כְּמוֹ נִקָּיוֹן, תִּקּוּן דְּרָכִים וּשְׁמִירָה עַל הַסְּבִיבָה.",
+    "url": "https://www.minaloc.gov.rw/news-detail/president-kagame-praises-rwandans-for-holding-on-to-umuganda",
+    "title": "President Kagame praises Rwandans for holding on to Umuganda",
+    "publisher": "Rwanda Ministry of Local Government",
+    "evidence": "Monthly communal work; remove universal everyone and unmeasured cleanest-country claim.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "CR",
+    "field": "funFactHe",
+    "replacement": "בְּקוֹסְטָה רִיקָה מְפִיקִים חֵלֶק גָּדוֹל מֵהַחַשְׁמַל מִמְּקוֹרוֹת מִתְחַדְּשִׁים, וּבָהֶם מַיִם, רוּחַ וְחֹם מִתּוֹךְ הָאֲדָמָה. הַשִּׁעוּר מִשְׁתַּנֶּה מִשָּׁנָה לְשָׁנָה.",
+    "url": "https://www.grupoice.com/wps/wcm/connect/f676f0e4-b935-4abf-9f93-3f639bca383b/Report%2B%2BIssuance%2B%2BGreen%2BBond.%2BThird%2Byear.pdf?MOD=AJPERES",
+    "title": "Green Bond — Third Year Report",
+    "publisher": "Instituto Costarricense de Electricidad",
+    "evidence": "Page 9: 88.22% Aug 2023–Jul 2024; timeless >99% not valid.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "EG",
+    "field": "representative.descriptionHe",
+    "replacement": "הַפִּירָמִידָה הַגְּדוֹלָה בְּגִיזָה נִבְנְתָה לִפְנֵי כְּ־4,500 שָׁנָה. הִיא הַיְּחִידָה מִשִּׁבְעַת פִּלְאֵי הָעוֹלָם הָעַתִּיק שֶׁעֲדַיִן עוֹמֶדֶת.",
+    "url": "https://egymonuments.gov.eg/en/monuments/the-great-pyramid/",
+    "title": "The Great Pyramid",
+    "publisher": "Egypt Ministry of Tourism and Antiquities",
+    "evidence": "Wonder is the Great Pyramid specifically, not all pyramids.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "UG",
+    "field": "funFactHe",
+    "replacement": "מֵאֲגַם וִיקְטוֹרְיָה שֶׁבְּאוּגַנְדָה יוֹצֵא נָהָר הַמִּשְׁתַּיֵּךְ לְמַעֲרֶכֶת הַנִּילוּס הַלָּבָן. לַנִּילוּס יֵשׁ כַּמָּה מְקוֹרוֹת, וּמֵימָיו זוֹרְמִים צָפוֹנָה עַד הַיָּם הַתִּיכוֹן.",
+    "url": "https://nilebasin.org/sites/default/files/2023-09/WRM-WBS-2022-01-Nile%2520Baisn%2520Wetlands%2520Inventory_FULL.pdf",
+    "title": "Nile Basin Wetlands Inventory 2022",
+    "publisher": "Nile Basin Initiative",
+    "evidence": "Section 1.1: multiple headwaters; White Nile upstream sources in Rwanda/Burundi.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "PT",
+    "field": "funFactHe",
+    "replacement": "בִּשְׁנַת 1498 הִגִּיעַ הַסַּפָּן הַפּוֹרְטוּגָלִי וַאסְקוֹ דָה גַאמָה לְהוֹדּוּ בְּמַסָּע יַמִּי מֵאֵירוֹפָּה סְבִיב אַפְרִיקָה. הַמַּסָּע פָּתַח נְתִיב מִסְחָר יַמִּי חָדָשׁ לָאֵירוֹפִּים.",
+    "url": "https://www.panteaonacional.gov.pt/en/homenageados/vasco-da-gama",
+    "title": "Vasco da Gama",
+    "publisher": "National Pantheon, Portugal",
+    "evidence": "First European route around Africa, not first people ever to reach these lands by sea.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "SK",
+    "field": "funFactHe",
+    "replacement": "בְּרַטִיסְלָבָה, בִּירַת סְלוֹבַקְיָה, גּוֹבֶלֶת בְּאוֹסְטְרִיָה וּבְהוּנְגַּרְיָה וְיוֹשֶׁבֶת עַל נְהַר הַדָּנוּבָּה.",
+    "url": "https://www.visitbratislava.com/wp-content/uploads/2015/11/anglicky_168x238_web.pdf",
+    "title": "Bratislava visitor guide",
+    "publisher": "Bratislava Tourist Board",
+    "evidence": "Original wrongly says only city bordering two countries; omit uniqueness.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "GH",
+    "field": "funFactHe",
+    "replacement": "גָּאנָה קִבְּלָה עַצְמָאוּת מִבְּרִיטַנְיָה בִּשְׁנַת 1957, בְּהַנְהָגַת קְוַואמֶה נְקְרוּמָה. עַצְמָאוּתָהּ עוֹדְדָה מַאֲבָקֵי עַצְמָאוּת נוֹסָפִים בְּאַפְרִיקָה.",
+    "url": "https://thehague.mfa.gov.gh/ghana-national-day-2020",
+    "title": "Ghana National Day 2020",
+    "publisher": "Embassy of Ghana, The Hague",
+    "evidence": "Removed unqualified first independent sub-Saharan country; retained 1957 independence.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "TZ",
+    "field": "representative.descriptionHe",
+    "replacement": "בַּסֶּרֶנְגֶּטִי עוֹבְרִים בְּכָל שָׁנָה עֲדָרִים עֲצוּמִים שֶׁל גְּנוּ, זֶבְּרוֹת וּצְבָאִים, בְּחִפּוּשׂ אַחַר מַיִם וּמִרְעֶה. מַסְלוּל הַנְּדִידָה עוֹבֵר בְּטַנְזַנְיָה וּבְקֵנְיָה.",
+    "url": "https://whc.unesco.org/en/list/156/",
+    "title": "Serengeti National Park",
+    "publisher": "UNESCO",
+    "evidence": "Cross-border migration; removed unqualified largest migration in animal kingdom.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "SD",
+    "field": "funFactHe",
+    "replacement": "מְלָכִים מִמַּמְלֶכֶת כּוּשׁ שֶׁבְּנוּבְיָה שָׁלְטוּ גַּם בְּמִצְרַיִם בַּמֵּאוֹת הַ־8 וְהַ־7 לִפְנֵי הַסְּפִירָה. הֵם מֻכָּרִים כַּשּׁוֹשֶׁלֶת הַ־25 שֶׁל מִצְרַיִם.",
+    "url": "https://isac.uchicago.edu/museum-exhibits/nubia/kushite-kingdom",
+    "title": "Kushite Kingdom",
+    "publisher": "University of Chicago, ISAC",
+    "evidence": "Kushite rule dated 747–656 BCE by source; replaces inaccurate exact range.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "CD",
+    "field": "funFactHe",
+    "replacement": "בָּרֶפּוּבְּלִיקָה הַדֵּמוֹקְרָטִית שֶׁל קוֹנְגוֹ נִמְצָא חֵלֶק גָּדוֹל מִיַּעֲרוֹת אֲגַן הַקּוֹנְגוֹ. זֶהוּ אֵזוֹר יַעַר הַגֶּשֶׁם הַטְּרוֹפִּי הַשֵּׁנִי בְּגָדְלוֹ בָּעוֹלָם, וְהוּא מִשְׂתָּרֵעַ עַל כַּמָּה מְדִינוֹת.",
+    "url": "https://openknowledge.worldbank.org/bitstreams/75e8214a-cbcd-4992-8dd5-97e3301e422d/download",
+    "title": "Congo Basin forests",
+    "publisher": "World Bank",
+    "evidence": "Congo Basin is a multinational forest region, not confined to DRC.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "BG",
+    "field": "representative.descriptionHe",
+    "replacement": "בּוּלְגַּרְיָה מְפֻרְסֶמֶת בְּגִדּוּל וְרָדִים לַהֲפָקַת שֶׁמֶן רֵיחָנִי. כְּדֵי לְהָפִיק קִילוֹגְרָם אֶחָד שֶׁל שֶׁמֶן וְרָדִים נִדְרָשִׁים אַלְפֵי קִילוֹגְרָמִים שֶׁל פְּרָחִים.",
+    "url": "https://www.kazanlak.bg/praznikat-na-rozata-prevarna-kazanlak-v-svetovna-destinatsiya",
+    "title": "Rose Festival in Kazanlak",
+    "publisher": "Kazanlak municipality",
+    "evidence": "Approximately 3 tonnes flowers per kilogram oil, not annual garden harvest; remove undated market share.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "IS",
+    "field": "funFactHe",
+    "replacement": "בְּאִיסְלַנְד מְפִיקִים כִּמְעַט אֶת כָּל הַחַשְׁמַל מִמַּיִם וּמֵחֹם שֶׁבְּתוֹךְ הָאֲדָמָה.",
+    "url": "https://www.government.is/library/Files/240102_URN_RoadmapForIceland_V6.pdf",
+    "title": "Hydrogen Roadmap 2024",
+    "publisher": "Government of Iceland",
+    "evidence": "Renewable electricity does not mean near-absence of air pollution; removed inference.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "EC",
+    "field": "funFactHe",
+    "replacement": "אִיֵּי גָּלָפָּגוֹס שֶׁל אֶקְוָדוֹר נִמְצָאִים סְבִיב קַו הַמַּשְׁוֶה. חַיִּים בָּהֶם בַּעֲלֵי חַיִּים יִחוּדִיִּים, וּבָהֶם פִּינְגְּוִינִים הַחַיִּים קָרוֹב לְקַו הַמַּשְׁוֶה.",
+    "url": "https://www.galapagos.org/about_galapagos/biodiversity/",
+    "title": "Galápagos biodiversity",
+    "publisher": "Galápagos Conservancy",
+    "evidence": "Equator, not unspecified latitude line; specialized conservation organization.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "BG",
+    "field": "currency",
+    "replacement": {
+      "code": "EUR",
+      "symbol": "€",
+      "nameHe": "אֵירוֹ"
+    },
+    "url": "https://www.ecb.europa.eu/euro/changeover/bulgaria/html/index.en.html",
+    "title": "Bulgaria joins the euro area",
+    "publisher": "European Central Bank",
+    "evidence": "Adopted euro 2026-01-01; BGN obsolete.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "PA",
+    "field": "currency",
+    "replacement": {
+      "code": "USD",
+      "symbol": "$",
+      "nameHe": "דּוֹלָר אָמֶרִיקָאִי",
+      "additionalCodes": [
+        "PAB"
+      ],
+      "noteHe": "גַּם בַּלְבּוֹאָה (PAB) הוּא מַטְבֵּעַ שֶׁל פָּנַמָה."
+    },
+    "url": "https://www.banconal.com.pa/wp-content/uploads/2026/02/EF-2025-WEB.pdf",
+    "title": "Financial Statements 2025",
+    "publisher": "Banco Nacional de Panamá",
+    "evidence": "Balboa monetary unit; US dollar legal tender. Both codes listed in SIX.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "MK",
+    "field": "currency",
+    "replacement": {
+      "code": "MKD",
+      "symbol": "ден",
+      "nameHe": "דֶּנָר מַקְדוֹנִי"
+    },
+    "url": "https://www.nbrm.mk/WBStorage/Files/WebBuilder_Know_Your_Banknotes_2016.pdf",
+    "title": "Know Your Banknotes",
+    "publisher": "National Bank of the Republic of Macedonia",
+    "evidence": "Currency name Denar, not Dinar.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "ZA",
+    "field": "capital",
+    "replacement": {
+      "en": "Pretoria",
+      "he": "פְּרֵטוֹרְיָה",
+      "noteHe": "בִּירָה מִנְהָלִית. קֵייפְּטָאוּן — בִּירַת הַחֲקִיקָה; בְּלוּמְפוֹנְטֵיין — בִּירָה שִׁפּוּטִית."
+    },
+    "url": "https://www.gov.za/about-sa/south-africa-glance",
+    "title": "South Africa at a glance",
+    "publisher": "Government of South Africa",
+    "evidence": "Three capitals with different functions.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "LK",
+    "field": "capital",
+    "replacement": {
+      "en": "Colombo / Sri Jayawardenepura Kotte",
+      "he": "קוֹלוֹמְבּוֹ / סְרִי גַ'יָיוַרְדֶנֶפּוּרָה קוֹטֶה",
+      "noteHe": "קוֹטֶה הִיא בִּירַת הַחֲקִיקָה וּמוֹשַׁב הַפַּרְלָמֶנְט."
+    },
+    "url": "https://data.un.org/en/iso/lk.html",
+    "title": "UNdata — Sri Lanka (2025 edition)",
+    "publisher": "United Nations Statistics Division",
+    "evidence": "Profile lists Colombo with footnote identifying legislative capital Kotte; avoids falsely declaring Colombo wholly wrong.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "BO",
+    "field": "capital",
+    "replacement": {
+      "en": "Sucre",
+      "he": "סוּקְרֶה",
+      "noteHe": "הַבִּירָה הַחוּקָתִית; לָה פָּאס הִיא מוֹשַׁב הַמֶּמְשָׁלָה."
+    },
+    "url": "https://data.un.org/en/iso/bo.html",
+    "title": "UNdata — Bolivia (2025 edition)",
+    "publisher": "United Nations Statistics Division",
+    "evidence": "Distinguishes constitutional capital from seat of government.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "NL",
+    "field": "capital",
+    "replacement": {
+      "en": "Amsterdam",
+      "he": "אַמְסְטֶרְדַם",
+      "noteHe": "הַמֶּמְשָׁלָה יוֹשֶׁבֶת בְּהָאג."
+    },
+    "url": "https://data.un.org/en/iso/nl.html",
+    "title": "UNdata — Netherlands (2025 edition)",
+    "publisher": "United Nations Statistics Division",
+    "evidence": "Amsterdam capital; The Hague seat of government.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "MY",
+    "field": "capital",
+    "replacement": {
+      "en": "Kuala Lumpur",
+      "he": "קוּאָלָה לוּמְפּוּר",
+      "noteHe": "פּוּטְרָגַ'איָה הִיא הַמֶּרְכָּז הַמִּנְהָלִי שֶׁל הַמֶּמְשָׁלָה."
+    },
+    "url": "https://www.pmo.gov.my/en/perdana-putra/",
+    "title": "Perdana Putra",
+    "publisher": "Prime Minister's Office, Malaysia",
+    "evidence": "Putrajaya administrative center, Kuala Lumpur capital retained.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "CI",
+    "field": "capital",
+    "replacement": {
+      "en": "Yamoussoukro",
+      "he": "יָמוּסוּקְרוֹ",
+      "noteHe": "אַבִּיגַ'אן מְשַׁמֶּשֶׁת גַּם מֶרְכָּז מִנְהָלִי."
+    },
+    "url": "https://data.un.org/en/iso/ci.html",
+    "title": "UNdata — Côte d'Ivoire (2025 edition)",
+    "publisher": "United Nations Statistics Division",
+    "evidence": "Profile footnote describes Abidjan as administrative capital.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "CH",
+    "field": "capital",
+    "replacement": {
+      "en": "Bern",
+      "he": "בֶּרְן",
+      "noteHe": "הָעִיר הַפֶדֶרָלִית, הַמְשַׁמֶּשֶׁת בִּירָה בְּפֹעַל."
+    },
+    "url": "https://www.aboutswitzerland.eda.admin.ch/en/political-system",
+    "title": "Political system",
+    "publisher": "Swiss Federal Department of Foreign Affairs",
+    "evidence": "Bern federal city and de facto capital.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "SG",
+    "field": "languages",
+    "replacement": [
+      {
+        "he": "אַנְגְּלִית"
+      },
+      {
+        "he": "סִינִית מַנְדָּרִינִית"
+      },
+      {
+        "he": "מָלַאיִית"
+      },
+      {
+        "he": "טָמִילִית"
+      }
+    ],
+    "url": "https://sso.agc.gov.sg/Act/CONS1963?ProvIds=pr153A-",
+    "title": "Constitution of Singapore, Article 153A",
+    "publisher": "Singapore Statutes Online",
+    "evidence": "Add Tamil to selected languages; Mandarin wording remains a common spoken-language selection.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "BE",
+    "field": "languages",
+    "replacement": [
+      {
+        "he": "הוֹלַנְדִּית"
+      },
+      {
+        "he": "צָרְפָתִית"
+      },
+      {
+        "he": "גֶּרְמָנִית"
+      }
+    ],
+    "url": "https://www.belgium.be/en/about_belgium/government/federale_staat",
+    "title": "The federal state",
+    "publisher": "Government of Belgium",
+    "evidence": "German-speaking community; selected-language addition.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "FI",
+    "field": "languages",
+    "replacement": [
+      {
+        "he": "פִינִית"
+      },
+      {
+        "he": "שְׁוֶדִית"
+      }
+    ],
+    "url": "https://finland.fi/facts-stats-and-info/finland-in-facts/",
+    "title": "Finland in facts",
+    "publisher": "Ministry for Foreign Affairs of Finland",
+    "evidence": "Finnish and Swedish national languages.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "CH",
+    "field": "languages",
+    "replacement": [
+      {
+        "he": "גֶּרְמָנִית"
+      },
+      {
+        "he": "צָרְפָתִית"
+      },
+      {
+        "he": "אִיטַלְקִית"
+      },
+      {
+        "he": "רוֹמַאנְשׁ"
+      }
+    ],
+    "url": "https://www.aboutswitzerland.eda.admin.ch/en/multilingualism",
+    "title": "Multilingualism",
+    "publisher": "Swiss Federal Department of Foreign Affairs",
+    "evidence": "Four national languages; added Romansh.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "RW",
+    "field": "languages",
+    "replacement": [
+      {
+        "he": "קִינְיַרְוַואנְדָה"
+      },
+      {
+        "he": "אַנְגְּלִית"
+      },
+      {
+        "he": "צָרְפָתִית"
+      },
+      {
+        "he": "סְוָואהִילִי"
+      }
+    ],
+    "url": "https://www.gov.rw/about",
+    "title": "About Rwanda",
+    "publisher": "Government of Rwanda",
+    "evidence": "Four official languages; added Swahili.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "FJ",
+    "field": "languages",
+    "replacement": [
+      {
+        "he": "אַנְגְּלִית"
+      },
+      {
+        "he": "פִיגִ'יִית"
+      },
+      {
+        "he": "הִינְדִי"
+      }
+    ],
+    "url": "https://www.finance.gov.fj/minister-immanuel-launches-citizens-guide-to-make-budget-more-accessible/",
+    "title": "Citizens guide to the budget",
+    "publisher": "Fiji Ministry of Finance",
+    "evidence": "Public guide published in English, iTaukei and Hindi; supports selected language use, not legal status.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "TH",
+    "field": "hello",
+    "replacement": {
+      "text": "สวัสดี",
+      "pronunciationHe": "סַוַאת דִּי",
+      "languageHe": "תַּאִית",
+      "meaningHe": "שָׁלוֹם"
+    },
+    "url": "https://cdn.am2026thailand.go.th/44/Sawasdee_Thailand_Brochure_d0f185c3c6.pdf",
+    "title": "Sawasdee Thailand, p.14",
+    "publisher": "Tourism Authority of Thailand",
+    "evidence": "Use bare greeting to match existing approximate pronunciation; khrap/kha are additional polite particles.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "GH",
+    "field": "hello",
+    "replacement": {
+      "text": "Akwaaba",
+      "pronunciationHe": "אַקְוַאָבָּה",
+      "languageHe": "טְוִוי",
+      "meaningHe": "בְּרוּכִים הַבָּאִים"
+    },
+    "url": "https://ghanaculture.gov.gh/unveiling-the-new-face-of-the-iconic-akwaaba-frame-by-ceejay-multimedia/",
+    "title": "The iconic Akwaaba frame",
+    "publisher": "National Commission on Culture, Ghana",
+    "evidence": "Twi welcome; not literally hello. Hebrew pronunciation not verified.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "UG",
+    "field": "hello",
+    "replacement": {
+      "text": "Oli otya",
+      "pronunciationHe": "אוֹלִי אוֹטְיָה",
+      "languageHe": "לוּגַנְדָה",
+      "meaningHe": "מַה שְּׁלוֹמְךָ?"
+    },
+    "url": "https://files.peacecorps.gov/documents/Survival_Luganda.pdf",
+    "title": "Survival Luganda, p.5",
+    "publisher": "US Peace Corps",
+    "evidence": "Informal how are you; Luganda rather than listed English/Swahili. Hebrew pronunciation not verified.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "JM",
+    "field": "hello",
+    "replacement": {
+      "text": "Wha gwaan",
+      "pronunciationHe": "וָה גְּוָאן",
+      "languageHe": "פָּטוּאָה גַ'מַיְקָנִית",
+      "meaningHe": "מַה קוֹרֶה?"
+    },
+    "url": "https://www.visitjamaica.com/discover-jamaica/people-heritage/language/",
+    "title": "Jamaican language",
+    "publisher": "Jamaica Tourism Board",
+    "evidence": "Jamaican Patois greeting; approximate what's going on. Hebrew pronunciation not verified.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "MT",
+    "field": "hello",
+    "replacement": {
+      "text": "Merħba",
+      "pronunciationHe": "מֶרְחְבָּה",
+      "languageHe": "מַלְטִית",
+      "meaningHe": "בְּרוּכִים הַבָּאִים"
+    },
+    "url": "https://vmim.visitmalta.com/en/about-us/",
+    "title": "About us — Merħba",
+    "publisher": "Malta Tourism Authority",
+    "evidence": "Merħba means welcome; Hebrew pronunciation not verified.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "MY",
+    "field": "hello",
+    "replacement": {
+      "text": "Apa khabar",
+      "pronunciationHe": "אַפָּה קַבָּר",
+      "languageHe": "מָלַאיִית",
+      "meaningHe": "מַה שְּׁלוֹמְךָ?"
+    },
+    "url": "https://educationmalaysia.gov.my/living-in-malaysia/tips-on-everyday-life/navigating-local-culture",
+    "title": "Navigating local culture",
+    "publisher": "Education Malaysia Global Services",
+    "evidence": "Malay how are you; Hebrew pronunciation not verified.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "MV",
+    "field": "hello",
+    "replacement": {
+      "text": "Haalu kihineh?",
+      "pronunciationHe": "הָאלוּ קִיהִינֶה",
+      "languageHe": "דִיוֶהִי",
+      "meaningHe": "מַה שְּׁלוֹמְךָ?"
+    },
+    "url": "https://www.jp.mdvmission.gov.mv/images/Visit-Maldives/destination-guide-2025-english.pdf",
+    "title": "Maldives Destination Guide 2025",
+    "publisher": "Maldives embassy / Visit Maldives",
+    "evidence": "Dhivehi how are you; Hebrew pronunciation not verified.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "clarified-with-source"
+  },
+  {
+    "code": "JP",
+    "field": "representative.descriptionHe",
+    "replacement": "פְּרִיחַת הַדֻּבְדְּבָן, סָקוּרָה, מֻכֶּרֶת בְּיַפָּן. עוֹנַת הַפְּרִיחָה מִשְׁתַּנָּה בֵּין הָאֲזוֹרִים: בַּדָּרוֹם הִיא מַתְחִילָה מֻקְדָּם יוֹתֵר, וּבַצָּפוֹן מְאֻחָר יוֹתֵר.",
+    "url": "https://www.japan.travel/en/guide/april/",
+    "title": "Japan in April",
+    "publisher": "Japan National Tourism Organization",
+    "evidence": "Okinawa January through Hokkaido May; not entire country covered simultaneously.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "KR",
+    "field": "representative.descriptionHe",
+    "replacement": "הַכְּתָב הַקּוֹרֵיאָנִי, הַנְגּוּל, פֻּתַּח בִּימֵי הַמֶּלֶךְ סֵג'וֹנְג. פִּתּוּחוֹ הֻשְׁלַם בִּשְׁנַת 1443, וְהוּא פֻּרְסַם בִּשְׁנַת 1446.",
+    "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript?hub=1081",
+    "title": "Hunminjeongum Manuscript",
+    "publisher": "UNESCO",
+    "evidence": "Completed 1443, promulgated 1446; removed undated age and unsupported faster-reading claim.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "AE",
+    "field": "funFactHe",
+    "replacement": "בְּדוּבַּאי אֶפְשָׁר לִגְלֹשׁ בַּשֶּׁלֶג בְּתוֹךְ מִבְנֶה מְקֹרָר! אֲתַר סְקִי דוּבַּאי נִמְצָא בְּמֶרְכַּז קְנִיּוֹת.",
+    "url": "https://www.visitdubai.com/en/places-to-visit/ski-dubai",
+    "title": "Ski Dubai",
+    "publisher": "Dubai Department of Economy and Tourism",
+    "evidence": "Indoor ski resort in Mall of the Emirates, not outdoor desert slope.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "GY",
+    "field": "representative.descriptionHe",
+    "replacement": "מְפַל קָאיֶטוּר שֶׁבְּגַיָאנָה נוֹפֵל מִגֹּבַהּ שֶׁל כְּ־226 מֶטְרִים. הוּא נִמְצָא בְּתוֹךְ יַעַר גֶּשֶׁם.",
+    "url": "https://guyanatourism.com/kaieteur-falls/",
+    "title": "Kaieteur Falls: Planning the perfect getaway",
+    "publisher": "Guyana Tourism Authority",
+    "evidence": "Height 226 m; removed unsupported invented-looking power-per-width ranking.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "SR",
+    "field": "representative.descriptionHe",
+    "replacement": "בִּשְׁמוּרַת הַטֶּבַע שֶׁל מֶרְכַּז סוּרִינָאם יֵשׁ יַעַר טְרוֹפִּי גָּדוֹל. בֵּין בַּעֲלֵי הַחַיִּים שֶׁבּוֹ נִמְצָאִים יָגוּאָרִים, קוֹפִים וּמֵאוֹת מִינֵי צִפּוֹרִים.",
+    "url": "https://whc.unesco.org/en/list/1017",
+    "title": "Central Suriname Nature Reserve",
+    "publisher": "UNESCO",
+    "evidence": "400 bird species listed for reserve; replaces thousands bird types nationwide with precise geographic scope.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "KR",
+    "field": "funFactHe",
+    "replacement": "דְּרוֹם קוֹרֵיאָה הִיא אֶרֶץ הֲרָרִית. בַּמִּזְרָח הֶהָרִים גְּבוֹהִים יוֹתֵר, וּבַמַּעֲרָב וּבַדָּרוֹם יֵשׁ יוֹתֵר אֲזוֹרִים נְמוּכִים.",
+    "url": "https://www.nics.go.kr/contents/page.do?contentsId=60&homepageSeCode=english&m=700000177",
+    "title": "Physical Features of Korea",
+    "publisher": "National Institute of Crop Science, Republic of Korea",
+    "evidence": "More than 70% mountainous; correct half-country and islands-between-mountains phrasing without new numeric precision.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "CY",
+    "field": "representative.descriptionHe",
+    "replacement": "קַפְרִיסִין הִיא אִי בַּיָּם הַתִּיכוֹן, הַקָּשׁוּר לִכְרִיַּת נְחֹשֶׁת מֵאָז הָעֵת הָעַתִּיקָה. הַנְּחֹשֶׁת שֶׁלָּהּ שִׁמְּשָׁה לַעֲשִׂיַּת כֵּלִים וְלַמִּסְחָר.",
+    "url": "https://www.visitcyprus.com/discover-cyprus/culture/cultural-routes/copper-cultural-route/",
+    "title": "Copper Cultural Route",
+    "publisher": "Cyprus Deputy Ministry of Tourism",
+    "evidence": "Historic copper mining and trade; removed uncertain name-origin claim.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "KZ",
+    "field": "representative.titleHe",
+    "replacement": "עֵיט הָעֲרָבוֹת",
+    "url": "https://mirror.akorda.kz/public/en/state_symbols/kazakhstan_flag",
+    "title": "National Flag of Kazakhstan",
+    "publisher": "President of Kazakhstan",
+    "evidence": "Steppe eagle depicted, not vulture or golden eagle.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "KZ",
+    "field": "representative.descriptionHe",
+    "replacement": "עַל דֶּגֶל קָזַחְסְטָן מוֹפִיעַ עֵיט פְּרוּשׂ כְּנָפַיִם מִתַּחַת לְשֶׁמֶשׁ זְהֻבָּה. הָעֵיט מְסַמֵּל עַצְמָאוּת וּשְׁאִיפָה לְהַגִּיעַ לְגֹבַהּ.",
+    "url": "https://mirror.akorda.kz/public/en/state_symbols/kazakhstan_flag",
+    "title": "National Flag of Kazakhstan",
+    "publisher": "President of Kazakhstan",
+    "evidence": "Steppe eagle, symbolism independence and aspiration; remove mixed species/hunting claim.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "US",
+    "field": "representative.titleHe",
+    "replacement": "עֵיטָם לְבֶן־רֹאשׁ",
+    "url": "https://ebird.org/species/baleag/CA-ON-TO",
+    "title": "Bald Eagle — Hebrew species name",
+    "publisher": "Cornell Lab of Ornithology, eBird",
+    "evidence": "Hebrew name עיטם לבן-ראש, not נשר מקרח.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "US",
+    "field": "representative.descriptionHe",
+    "replacement": "הָעֵיטָם לְבֶן־הָרֹאשׁ הוּא סֵמֶל מֻכָּר שֶׁל אַרְצוֹת הַבְּרִית. הוּא מוֹפִיעַ בַּחוֹתָם הַגָּדוֹל שֶׁל הַמְּדִינָה, לְצַד עֲנַף זַיִת וְחִצִּים.",
+    "url": "https://www.usa.gov/flag",
+    "title": "The American flag and other national symbols",
+    "publisher": "US General Services Administration",
+    "evidence": "Bald eagle on Great Seal alongside olive branch and arrows; correct Hebrew zoological term.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "PL",
+    "field": "representative.titleHe",
+    "replacement": "הָעַיִט הַלָּבָן",
+    "url": "https://www.gov.pl/web/diplomacy/polands-day-of-the-flag",
+    "title": "Poland's Day of the Flag",
+    "publisher": "Polish Ministry of Foreign Affairs",
+    "evidence": "White eagle coat of arms, not vulture.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "PL",
+    "field": "representative.descriptionHe",
+    "replacement": "עַיִט לָבָן עַל רֶקַע אָדֹם מוֹפִיעַ בְּסֵמֶל פּוֹלִין. צִבְעֵי הַדֶּגֶל הַפּוֹלָנִי הֵם לָבָן וְאָדֹם.",
+    "url": "https://www.gov.pl/web/diplomacy/polands-day-of-the-flag",
+    "title": "Poland's Day of the Flag",
+    "publisher": "Polish Ministry of Foreign Affairs",
+    "evidence": "Distinguishes coat of arms from ordinary national flag; removed unverified chronology.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "AL",
+    "field": "representative.titleHe",
+    "replacement": "הָעַיִט הַדּוּ־רֹאשִׁי",
+    "url": "https://ambasadat.gov.al/usa/en/simbolet-kombetare/",
+    "title": "National symbols",
+    "publisher": "Embassy of Albania, Washington",
+    "evidence": "Double-headed eagle, not vulture.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "AL",
+    "field": "representative.descriptionHe",
+    "replacement": "בְּמֶרְכַּז דֶּגֶל אַלְבַּנְיָה מוֹפִיעַ עַיִט שָׁחוֹר בַּעַל שְׁנֵי רָאשִׁים, עַל רֶקַע אָדֹם.",
+    "url": "https://ambasadat.gov.al/usa/en/simbolet-kombetare/",
+    "title": "National symbols",
+    "publisher": "Embassy of Albania, Washington",
+    "evidence": "Black double-headed eagle on red; removed oldest-symbol ranking.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "NG",
+    "field": "representative.titleHe",
+    "replacement": "הָעַיִט בְּסֵמֶל נִיגֶרְיָה",
+    "url": "https://nigeriaembassyusa.org/explanation-of-the-nigeria-coat-of-arms/",
+    "title": "Explanation of the Nigeria Coat of Arms",
+    "publisher": "Embassy of Nigeria, Washington",
+    "evidence": "Eagle in coat of arms; not a distinct Nigerian vulture species.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  },
+  {
+    "code": "NG",
+    "field": "representative.descriptionHe",
+    "replacement": "בְּסֵמֶל נִיגֶרְיָה מוֹפִיעַ עַיִט אָדֹם מֵעַל מָגֵן שָׁחוֹר. הָעַיִט מְסַמֵּל אֶת כֹּחָהּ שֶׁל הַמְּדִינָה.",
+    "url": "https://nigeriaembassyusa.org/explanation-of-the-nigeria-coat-of-arms/",
+    "title": "Explanation of the Nigeria Coat of Arms",
+    "publisher": "Embassy of Nigeria, Washington",
+    "evidence": "Official explanation of red eagle and shield.",
+    "checkedAt": "2026-09-07",
+    "confidence": "high",
+    "status": "corrected-with-source"
+  }
+]

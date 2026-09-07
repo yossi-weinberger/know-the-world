@@ -1,0 +1,1202 @@
+[
+  {
+    "number": 1,
+    "code": "IL",
+    "nameHe": "יִשְׂרָאֵל",
+    "nameEn": "Israel",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 2,
+    "code": "UZ",
+    "nameHe": "אוּזְבֶּקִיסְטָן",
+    "nameEn": "Uzbekistan",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 3,
+    "code": "AZ",
+    "nameHe": "אֲזֶרְבַּיְגָ'ן",
+    "nameEn": "Azerbaijan",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 4,
+    "code": "AE",
+    "nameHe": "אִיחוּד הָאֶמִירַיּוֹת",
+    "nameEn": "United Arab Emirates",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 5,
+    "code": "ID",
+    "nameHe": "אִינְדּוֹנֵזְיָה",
+    "nameEn": "Indonesia",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 6,
+    "code": "IR",
+    "nameHe": "אִירָן",
+    "nameEn": "Iran",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 7,
+    "code": "AF",
+    "nameHe": "אַפְגָּנִיסְטָן",
+    "nameEn": "Afghanistan",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 8,
+    "code": "AM",
+    "nameHe": "אַרְמֶנְיָה",
+    "nameEn": "Armenia",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 9,
+    "code": "BT",
+    "nameHe": "בּוּטָן",
+    "nameEn": "Bhutan",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 10,
+    "code": "MM",
+    "nameHe": "בּוּרְמָה",
+    "nameEn": "Myanmar",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 11,
+    "code": "BH",
+    "nameHe": "בַּחְרֵין",
+    "nameEn": "Bahrain",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 12,
+    "code": "BD",
+    "nameHe": "בַּנְגְלַדֵּשׁ",
+    "nameEn": "Bangladesh",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 13,
+    "code": "KR",
+    "nameHe": "דְּרוֹם קוֹרֵיאָה",
+    "nameEn": "South Korea",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 14,
+    "code": "IN",
+    "nameHe": "הוֹדּוּ",
+    "nameEn": "India",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 15,
+    "code": "VN",
+    "nameHe": "וְיֶטְנָם",
+    "nameEn": "Vietnam",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 16,
+    "code": "TJ",
+    "nameHe": "טַגִ'יקִיסְטָן",
+    "nameEn": "Tajikistan",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 17,
+    "code": "TR",
+    "nameHe": "טוּרְקִיָּה",
+    "nameEn": "Turkey",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 18,
+    "code": "TM",
+    "nameHe": "טוּרְקְמֶנִיסְטָן",
+    "nameEn": "Turkmenistan",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 19,
+    "code": "JP",
+    "nameHe": "יַפָּן",
+    "nameEn": "Japan",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 20,
+    "code": "JO",
+    "nameHe": "יַרְדֵּן",
+    "nameEn": "Jordan",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 21,
+    "code": "KW",
+    "nameHe": "כּוּוֵית",
+    "nameEn": "Kuwait",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 22,
+    "code": "LA",
+    "nameHe": "לָאוֹס",
+    "nameEn": "Laos",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 23,
+    "code": "LB",
+    "nameHe": "לְבָנוֹן",
+    "nameEn": "Lebanon",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 24,
+    "code": "MN",
+    "nameHe": "מוֹנְגּוֹלְיָה",
+    "nameEn": "Mongolia",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 25,
+    "code": "MV",
+    "nameHe": "מַלְדִיבִים",
+    "nameEn": "Maldives",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 26,
+    "code": "MY",
+    "nameHe": "מָלֵיזְיָה",
+    "nameEn": "Malaysia",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 27,
+    "code": "NP",
+    "nameHe": "נֶפָּאל",
+    "nameEn": "Nepal",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 28,
+    "code": "SY",
+    "nameHe": "סוּרְיָה",
+    "nameEn": "Syria",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 29,
+    "code": "CN",
+    "nameHe": "סִין",
+    "nameEn": "China",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 30,
+    "code": "SG",
+    "nameHe": "סִינְגָּפּוּר",
+    "nameEn": "Singapore",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 31,
+    "code": "LK",
+    "nameHe": "סְרִי לַנְקָה",
+    "nameEn": "Sri Lanka",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 32,
+    "code": "OM",
+    "nameHe": "עוֹמַאן",
+    "nameEn": "Oman",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 33,
+    "code": "IQ",
+    "nameHe": "עִירָק",
+    "nameEn": "Iraq",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 34,
+    "code": "SA",
+    "nameHe": "עֲרַב הַסְּעוּדִית",
+    "nameEn": "Saudi Arabia",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 35,
+    "code": "PH",
+    "nameHe": "פִילִיפִּינִים",
+    "nameEn": "Philippines",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 36,
+    "code": "PK",
+    "nameHe": "פָּקִיסְטָן",
+    "nameEn": "Pakistan",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 37,
+    "code": "KP",
+    "nameHe": "צְפוֹן קוֹרֵיאָה",
+    "nameEn": "North Korea",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 38,
+    "code": "KZ",
+    "nameHe": "קָזַחְסְטָן",
+    "nameEn": "Kazakhstan",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 39,
+    "code": "QA",
+    "nameHe": "קָטַאר",
+    "nameEn": "Qatar",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 40,
+    "code": "KG",
+    "nameHe": "קִירְגִּיזְסְטָן",
+    "nameEn": "Kyrgyzstan",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 41,
+    "code": "KH",
+    "nameHe": "קַמְבּוֹדְיָה",
+    "nameEn": "Cambodia",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 42,
+    "code": "TH",
+    "nameHe": "תַּאִילַנְד",
+    "nameEn": "Thailand",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 43,
+    "code": "YE",
+    "nameHe": "תֵּימָן",
+    "nameEn": "Yemen",
+    "continent": "Asia",
+    "continentHe": "אַסְיָה"
+  },
+  {
+    "number": 44,
+    "code": "AT",
+    "nameHe": "אוֹסְטְרִיָּה",
+    "nameEn": "Austria",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 45,
+    "code": "UA",
+    "nameHe": "אוּקְרַאִינָה",
+    "nameEn": "Ukraine",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 46,
+    "code": "IT",
+    "nameHe": "אִיטַלְיָה",
+    "nameEn": "Italy",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 47,
+    "code": "IS",
+    "nameHe": "אִיסְלַנְד",
+    "nameEn": "Iceland",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 48,
+    "code": "IE",
+    "nameHe": "אִירְלַנְד",
+    "nameEn": "Ireland",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 49,
+    "code": "AL",
+    "nameHe": "אַלְבָּנְיָה",
+    "nameEn": "Albania",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 50,
+    "code": "AD",
+    "nameHe": "אַנְדוֹרָה",
+    "nameEn": "Andorra",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 51,
+    "code": "EE",
+    "nameHe": "אֶסְטוֹנְיָה",
+    "nameEn": "Estonia",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 52,
+    "code": "BG",
+    "nameHe": "בּוּלְגַּרְיָה",
+    "nameEn": "Bulgaria",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 53,
+    "code": "BA",
+    "nameHe": "בּוֹסְנְיָה",
+    "nameEn": "Bosnia and Herzegovina",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 54,
+    "code": "BY",
+    "nameHe": "בֵּלָארוּס",
+    "nameEn": "Belarus",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 55,
+    "code": "BE",
+    "nameHe": "בֶּלְגִּיָּה",
+    "nameEn": "Belgium",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 56,
+    "code": "GB",
+    "nameHe": "בְּרִיטַנְיָה",
+    "nameEn": "United Kingdom",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 57,
+    "code": "GE",
+    "nameHe": "גֵּאוֹרְגְּיָה",
+    "nameEn": "Georgia",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 58,
+    "code": "DE",
+    "nameHe": "גֶּרְמַנְיָה",
+    "nameEn": "Germany",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 59,
+    "code": "DK",
+    "nameHe": "דֶּנְמַרְק",
+    "nameEn": "Denmark",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 60,
+    "code": "NL",
+    "nameHe": "הוֹלַנְד",
+    "nameEn": "Netherlands",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 61,
+    "code": "HU",
+    "nameHe": "הוּנְגַּרְיָה",
+    "nameEn": "Hungary",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 62,
+    "code": "GR",
+    "nameHe": "יָוָן",
+    "nameEn": "Greece",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 63,
+    "code": "LU",
+    "nameHe": "לוּקְסֶמְבּוּרְג",
+    "nameEn": "Luxembourg",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 64,
+    "code": "LV",
+    "nameHe": "לַטְבִיָּה",
+    "nameEn": "Latvia",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 65,
+    "code": "LT",
+    "nameHe": "לִיטָא",
+    "nameEn": "Lithuania",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 66,
+    "code": "LI",
+    "nameHe": "לִיכְטֶנְשְׁטַיְין",
+    "nameEn": "Liechtenstein",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 67,
+    "code": "MD",
+    "nameHe": "מוֹלְדֹבָה",
+    "nameEn": "Moldova",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 68,
+    "code": "ME",
+    "nameHe": "מוֹנְטֶנֶגְרוֹ",
+    "nameEn": "Montenegro",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 69,
+    "code": "MC",
+    "nameHe": "מוֹנָקוֹ",
+    "nameEn": "Monaco",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 70,
+    "code": "MT",
+    "nameHe": "מַלְטָה",
+    "nameEn": "Malta",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 71,
+    "code": "MK",
+    "nameHe": "מַקְדוֹנְיָה הַצְּפוֹנִית",
+    "nameEn": "North Macedonia",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 72,
+    "code": "NO",
+    "nameHe": "נוֹרְבֶגְיָה",
+    "nameEn": "Norway",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 73,
+    "code": "SI",
+    "nameHe": "סְלוֹבֶנְיָה",
+    "nameEn": "Slovenia",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 74,
+    "code": "SK",
+    "nameHe": "סְלוֹבַקְיָה",
+    "nameEn": "Slovakia",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 75,
+    "code": "SM",
+    "nameHe": "סַן מָרִינוֹ",
+    "nameEn": "San Marino",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 76,
+    "code": "ES",
+    "nameHe": "סְפָרַד",
+    "nameEn": "Spain",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 77,
+    "code": "RS",
+    "nameHe": "סֶרְבְּיָה",
+    "nameEn": "Serbia",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 78,
+    "code": "PL",
+    "nameHe": "פּוֹלִין",
+    "nameEn": "Poland",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 79,
+    "code": "PT",
+    "nameHe": "פּוֹרְטוּגַל",
+    "nameEn": "Portugal",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 80,
+    "code": "FI",
+    "nameHe": "פִינְלַנְד",
+    "nameEn": "Finland",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 81,
+    "code": "CZ",
+    "nameHe": "צֶ'כְיָה",
+    "nameEn": "Czech Republic",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 82,
+    "code": "FR",
+    "nameHe": "צָרְפַת",
+    "nameEn": "France",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 83,
+    "code": "CY",
+    "nameHe": "קַפְרִיסִין",
+    "nameEn": "Cyprus",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 84,
+    "code": "HR",
+    "nameHe": "קְרוֹאַטְיָה",
+    "nameEn": "Croatia",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 85,
+    "code": "RO",
+    "nameHe": "רוּמֶנְיָה",
+    "nameEn": "Romania",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 86,
+    "code": "RU",
+    "nameHe": "רוּסְיָה",
+    "nameEn": "Russia",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 87,
+    "code": "SE",
+    "nameHe": "שְׁוֵדְיָה",
+    "nameEn": "Sweden",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 88,
+    "code": "CH",
+    "nameHe": "שְׁוֵיצַרְיָה",
+    "nameEn": "Switzerland",
+    "continent": "Europe",
+    "continentHe": "אֵירוֹפָּה"
+  },
+  {
+    "number": 89,
+    "code": "UG",
+    "nameHe": "אוּגַנְדָּה",
+    "nameEn": "Uganda",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 90,
+    "code": "DZ",
+    "nameHe": "אַלְגִ'רְיָה",
+    "nameEn": "Algeria",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 91,
+    "code": "AO",
+    "nameHe": "אַנְגּוֹלָה",
+    "nameEn": "Angola",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 92,
+    "code": "ER",
+    "nameHe": "אֶרִיתְרְאָה",
+    "nameEn": "Eritrea",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 93,
+    "code": "ET",
+    "nameHe": "אֶתְיוֹפְּיָה",
+    "nameEn": "Ethiopia",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 94,
+    "code": "BW",
+    "nameHe": "בּוֹצְוַאנָה",
+    "nameEn": "Botswana",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 95,
+    "code": "GH",
+    "nameHe": "גָּאנָה",
+    "nameEn": "Ghana",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 96,
+    "code": "ZA",
+    "nameHe": "דְּרוֹם אַפְרִיקָה",
+    "nameEn": "South Africa",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 97,
+    "code": "SS",
+    "nameHe": "דְּרוֹם סוּדָן",
+    "nameEn": "South Sudan",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 98,
+    "code": "ZW",
+    "nameHe": "זִימְבַּבְּוֶה",
+    "nameEn": "Zimbabwe",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 99,
+    "code": "ZM",
+    "nameHe": "זַמְבְּיָה",
+    "nameEn": "Zambia",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 100,
+    "code": "CI",
+    "nameHe": "חוֹף הַשְּׁנַהָב",
+    "nameEn": "Ivory Coast",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 101,
+    "code": "TZ",
+    "nameHe": "טַנְזַנְיָה",
+    "nameEn": "Tanzania",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 102,
+    "code": "LY",
+    "nameHe": "לוּב",
+    "nameEn": "Libya",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 103,
+    "code": "ML",
+    "nameHe": "מַאלִי",
+    "nameEn": "Mali",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 104,
+    "code": "MG",
+    "nameHe": "מָדַגַסְקָר",
+    "nameEn": "Madagascar",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 105,
+    "code": "MZ",
+    "nameHe": "מוֹזַמְבִּיק",
+    "nameEn": "Mozambique",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 106,
+    "code": "MW",
+    "nameHe": "מָלַאוִוי",
+    "nameEn": "Malawi",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 107,
+    "code": "EG",
+    "nameHe": "מִצְרַיִם",
+    "nameEn": "Egypt",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 108,
+    "code": "MA",
+    "nameHe": "מָרוֹקוֹ",
+    "nameEn": "Morocco",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 109,
+    "code": "NG",
+    "nameHe": "נִיגֶרְיָה",
+    "nameEn": "Nigeria",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 110,
+    "code": "NA",
+    "nameHe": "נָמִיבְּיָה",
+    "nameEn": "Namibia",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 111,
+    "code": "SD",
+    "nameHe": "סוּדָן",
+    "nameEn": "Sudan",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 112,
+    "code": "SO",
+    "nameHe": "סוֹמַלְיָה",
+    "nameEn": "Somalia",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 113,
+    "code": "SN",
+    "nameHe": "סֶנֶגַל",
+    "nameEn": "Senegal",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 114,
+    "code": "CD",
+    "nameHe": "קוֹנְגּוֹ הַדֵּמוֹקְרָטִית",
+    "nameEn": "DR Congo",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 115,
+    "code": "CM",
+    "nameHe": "קָמֶרוּן",
+    "nameEn": "Cameroon",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 116,
+    "code": "KE",
+    "nameHe": "קֵנְיָה",
+    "nameEn": "Kenya",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 117,
+    "code": "RW",
+    "nameHe": "רְוַואנְדָה",
+    "nameEn": "Rwanda",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 118,
+    "code": "TN",
+    "nameHe": "תּוּנִיסְיָה",
+    "nameEn": "Tunisia",
+    "continent": "Africa",
+    "continentHe": "אַפְרִיקָה"
+  },
+  {
+    "number": 119,
+    "code": "SV",
+    "nameHe": "אֶל סַלְוָדוֹר",
+    "nameEn": "El Salvador",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 120,
+    "code": "US",
+    "nameHe": "אַרְצוֹת הַבְּרִית",
+    "nameEn": "United States",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 121,
+    "code": "JM",
+    "nameHe": "גָ'מַיְקָה",
+    "nameEn": "Jamaica",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 122,
+    "code": "GT",
+    "nameHe": "גּוּאָטֵמָלָה",
+    "nameEn": "Guatemala",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 123,
+    "code": "HT",
+    "nameHe": "הַאִיטִי",
+    "nameEn": "Haiti",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 124,
+    "code": "HN",
+    "nameHe": "הוֹנְדּוּרַס",
+    "nameEn": "Honduras",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 125,
+    "code": "DO",
+    "nameHe": "הָרֶפּוּבְּלִיקָה הַדּוֹמִינִיקָנִית",
+    "nameEn": "Dominican Republic",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 126,
+    "code": "TT",
+    "nameHe": "טְרִינִידָד וְטוֹבָּגוֹ",
+    "nameEn": "Trinidad and Tobago",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 127,
+    "code": "MX",
+    "nameHe": "מֶקְסִיקוֹ",
+    "nameEn": "Mexico",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 128,
+    "code": "NI",
+    "nameHe": "נִיקָרָגְוָה",
+    "nameEn": "Nicaragua",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 129,
+    "code": "PA",
+    "nameHe": "פָּנַמָה",
+    "nameEn": "Panama",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 130,
+    "code": "CU",
+    "nameHe": "קוּבָּה",
+    "nameEn": "Cuba",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 131,
+    "code": "CR",
+    "nameHe": "קוֹסְטָה רִיקָה",
+    "nameEn": "Costa Rica",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 132,
+    "code": "CA",
+    "nameHe": "קָנָדָה",
+    "nameEn": "Canada",
+    "continent": "North America",
+    "continentHe": "אָמֶרִיקָה הַצְּפוֹנִית"
+  },
+  {
+    "number": 133,
+    "code": "UY",
+    "nameHe": "אוּרוּגְוַאי",
+    "nameEn": "Uruguay",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 134,
+    "code": "EC",
+    "nameHe": "אֶקְוָדוֹר",
+    "nameEn": "Ecuador",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 135,
+    "code": "AR",
+    "nameHe": "אַרְגֶּנְטִינָה",
+    "nameEn": "Argentina",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 136,
+    "code": "BO",
+    "nameHe": "בּוֹלִיבְיָה",
+    "nameEn": "Bolivia",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 137,
+    "code": "BR",
+    "nameHe": "בְּרָזִיל",
+    "nameEn": "Brazil",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 138,
+    "code": "GY",
+    "nameHe": "גַּיָאנָה",
+    "nameEn": "Guyana",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 139,
+    "code": "VE",
+    "nameHe": "וֶנֶצְוֵאלָה",
+    "nameEn": "Venezuela",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 140,
+    "code": "SR",
+    "nameHe": "סוּרִינָאם",
+    "nameEn": "Suriname",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 141,
+    "code": "PY",
+    "nameHe": "פָּרַגְוַאי",
+    "nameEn": "Paraguay",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 142,
+    "code": "PE",
+    "nameHe": "פֶּרוּ",
+    "nameEn": "Peru",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 143,
+    "code": "CL",
+    "nameHe": "צ'ִילֵה",
+    "nameEn": "Chile",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 144,
+    "code": "CO",
+    "nameHe": "קוֹלוֹמְבִּיָּה",
+    "nameEn": "Colombia",
+    "continent": "South America",
+    "continentHe": "אָמֶרִיקָה הַדְּרוֹמִית"
+  },
+  {
+    "number": 145,
+    "code": "AU",
+    "nameHe": "אוֹסְטְרַלְיָה",
+    "nameEn": "Australia",
+    "continent": "Oceania",
+    "continentHe": "אוֹקְיָינוּסְיָה"
+  },
+  {
+    "number": 146,
+    "code": "TO",
+    "nameHe": "טוֹנְגָה",
+    "nameEn": "Tonga",
+    "continent": "Oceania",
+    "continentHe": "אוֹקְיָינוּסְיָה"
+  },
+  {
+    "number": 147,
+    "code": "NZ",
+    "nameHe": "נְיוּ זִילַנְד",
+    "nameEn": "New Zealand",
+    "continent": "Oceania",
+    "continentHe": "אוֹקְיָינוּסְיָה"
+  },
+  {
+    "number": 148,
+    "code": "WS",
+    "nameHe": "סָמוֹאָה",
+    "nameEn": "Samoa",
+    "continent": "Oceania",
+    "continentHe": "אוֹקְיָינוּסְיָה"
+  },
+  {
+    "number": 149,
+    "code": "FJ",
+    "nameHe": "פִיגִ'י",
+    "nameEn": "Fiji",
+    "continent": "Oceania",
+    "continentHe": "אוֹקְיָינוּסְיָה"
+  },
+  {
+    "number": 150,
+    "code": "PG",
+    "nameHe": "פָּפּוּאָה גִינֵאָה הַחֲדָשָׁה",
+    "nameEn": "Papua New Guinea",
+    "continent": "Oceania",
+    "continentHe": "אוֹקְיָינוּסְיָה"
+  }
+]

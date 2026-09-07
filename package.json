@@ -1,0 +1,14 @@
+{
+  "name": "know-the-world",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Printable Hebrew country learning cards with traceable data",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "validate": "node scripts/validate.cjs",
+    "check:population": "node scripts/population.cjs --check 2025",
+    "audit": "node scripts/audit.cjs",
+    "build:country-index": "node scripts/country-index.cjs"
+  },
+  "engines": { "node": ">=20" }
+}

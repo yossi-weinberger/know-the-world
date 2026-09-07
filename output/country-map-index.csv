@@ -1,0 +1,151 @@
+﻿number,code,nameHe,nameEn,continent,continentHe
+1,IL,יִשְׂרָאֵל,Israel,Asia,אַסְיָה
+2,UZ,אוּזְבֶּקִיסְטָן,Uzbekistan,Asia,אַסְיָה
+3,AZ,אֲזֶרְבַּיְגָ'ן,Azerbaijan,Asia,אַסְיָה
+4,AE,אִיחוּד הָאֶמִירַיּוֹת,United Arab Emirates,Asia,אַסְיָה
+5,ID,אִינְדּוֹנֵזְיָה,Indonesia,Asia,אַסְיָה
+6,IR,אִירָן,Iran,Asia,אַסְיָה
+7,AF,אַפְגָּנִיסְטָן,Afghanistan,Asia,אַסְיָה
+8,AM,אַרְמֶנְיָה,Armenia,Asia,אַסְיָה
+9,BT,בּוּטָן,Bhutan,Asia,אַסְיָה
+10,MM,בּוּרְמָה,Myanmar,Asia,אַסְיָה
+11,BH,בַּחְרֵין,Bahrain,Asia,אַסְיָה
+12,BD,בַּנְגְלַדֵּשׁ,Bangladesh,Asia,אַסְיָה
+13,KR,דְּרוֹם קוֹרֵיאָה,South Korea,Asia,אַסְיָה
+14,IN,הוֹדּוּ,India,Asia,אַסְיָה
+15,VN,וְיֶטְנָם,Vietnam,Asia,אַסְיָה
+16,TJ,טַגִ'יקִיסְטָן,Tajikistan,Asia,אַסְיָה
+17,TR,טוּרְקִיָּה,Turkey,Asia,אַסְיָה
+18,TM,טוּרְקְמֶנִיסְטָן,Turkmenistan,Asia,אַסְיָה
+19,JP,יַפָּן,Japan,Asia,אַסְיָה
+20,JO,יַרְדֵּן,Jordan,Asia,אַסְיָה
+21,KW,כּוּוֵית,Kuwait,Asia,אַסְיָה
+22,LA,לָאוֹס,Laos,Asia,אַסְיָה
+23,LB,לְבָנוֹן,Lebanon,Asia,אַסְיָה
+24,MN,מוֹנְגּוֹלְיָה,Mongolia,Asia,אַסְיָה
+25,MV,מַלְדִיבִים,Maldives,Asia,אַסְיָה
+26,MY,מָלֵיזְיָה,Malaysia,Asia,אַסְיָה
+27,NP,נֶפָּאל,Nepal,Asia,אַסְיָה
+28,SY,סוּרְיָה,Syria,Asia,אַסְיָה
+29,CN,סִין,China,Asia,אַסְיָה
+30,SG,סִינְגָּפּוּר,Singapore,Asia,אַסְיָה
+31,LK,סְרִי לַנְקָה,Sri Lanka,Asia,אַסְיָה
+32,OM,עוֹמַאן,Oman,Asia,אַסְיָה
+33,IQ,עִירָק,Iraq,Asia,אַסְיָה
+34,SA,עֲרַב הַסְּעוּדִית,Saudi Arabia,Asia,אַסְיָה
+35,PH,פִילִיפִּינִים,Philippines,Asia,אַסְיָה
+36,PK,פָּקִיסְטָן,Pakistan,Asia,אַסְיָה
+37,KP,צְפוֹן קוֹרֵיאָה,North Korea,Asia,אַסְיָה
+38,KZ,קָזַחְסְטָן,Kazakhstan,Asia,אַסְיָה
+39,QA,קָטַאר,Qatar,Asia,אַסְיָה
+40,KG,קִירְגִּיזְסְטָן,Kyrgyzstan,Asia,אַסְיָה
+41,KH,קַמְבּוֹדְיָה,Cambodia,Asia,אַסְיָה
+42,TH,תַּאִילַנְד,Thailand,Asia,אַסְיָה
+43,YE,תֵּימָן,Yemen,Asia,אַסְיָה
+44,AT,אוֹסְטְרִיָּה,Austria,Europe,אֵירוֹפָּה
+45,UA,אוּקְרַאִינָה,Ukraine,Europe,אֵירוֹפָּה
+46,IT,אִיטַלְיָה,Italy,Europe,אֵירוֹפָּה
+47,IS,אִיסְלַנְד,Iceland,Europe,אֵירוֹפָּה
+48,IE,אִירְלַנְד,Ireland,Europe,אֵירוֹפָּה
+49,AL,אַלְבָּנְיָה,Albania,Europe,אֵירוֹפָּה
+50,AD,אַנְדוֹרָה,Andorra,Europe,אֵירוֹפָּה
+51,EE,אֶסְטוֹנְיָה,Estonia,Europe,אֵירוֹפָּה
+52,BG,בּוּלְגַּרְיָה,Bulgaria,Europe,אֵירוֹפָּה
+53,BA,בּוֹסְנְיָה,Bosnia and Herzegovina,Europe,אֵירוֹפָּה
+54,BY,בֵּלָארוּס,Belarus,Europe,אֵירוֹפָּה
+55,BE,בֶּלְגִּיָּה,Belgium,Europe,אֵירוֹפָּה
+56,GB,בְּרִיטַנְיָה,United Kingdom,Europe,אֵירוֹפָּה
+57,GE,גֵּאוֹרְגְּיָה,Georgia,Europe,אֵירוֹפָּה
+58,DE,גֶּרְמַנְיָה,Germany,Europe,אֵירוֹפָּה
+59,DK,דֶּנְמַרְק,Denmark,Europe,אֵירוֹפָּה
+60,NL,הוֹלַנְד,Netherlands,Europe,אֵירוֹפָּה
+61,HU,הוּנְגַּרְיָה,Hungary,Europe,אֵירוֹפָּה
+62,GR,יָוָן,Greece,Europe,אֵירוֹפָּה
+63,LU,לוּקְסֶמְבּוּרְג,Luxembourg,Europe,אֵירוֹפָּה
+64,LV,לַטְבִיָּה,Latvia,Europe,אֵירוֹפָּה
+65,LT,לִיטָא,Lithuania,Europe,אֵירוֹפָּה
+66,LI,לִיכְטֶנְשְׁטַיְין,Liechtenstein,Europe,אֵירוֹפָּה
+67,MD,מוֹלְדֹבָה,Moldova,Europe,אֵירוֹפָּה
+68,ME,מוֹנְטֶנֶגְרוֹ,Montenegro,Europe,אֵירוֹפָּה
+69,MC,מוֹנָקוֹ,Monaco,Europe,אֵירוֹפָּה
+70,MT,מַלְטָה,Malta,Europe,אֵירוֹפָּה
+71,MK,מַקְדוֹנְיָה הַצְּפוֹנִית,North Macedonia,Europe,אֵירוֹפָּה
+72,NO,נוֹרְבֶגְיָה,Norway,Europe,אֵירוֹפָּה
+73,SI,סְלוֹבֶנְיָה,Slovenia,Europe,אֵירוֹפָּה
+74,SK,סְלוֹבַקְיָה,Slovakia,Europe,אֵירוֹפָּה
+75,SM,סַן מָרִינוֹ,San Marino,Europe,אֵירוֹפָּה
+76,ES,סְפָרַד,Spain,Europe,אֵירוֹפָּה
+77,RS,סֶרְבְּיָה,Serbia,Europe,אֵירוֹפָּה
+78,PL,פּוֹלִין,Poland,Europe,אֵירוֹפָּה
+79,PT,פּוֹרְטוּגַל,Portugal,Europe,אֵירוֹפָּה
+80,FI,פִינְלַנְד,Finland,Europe,אֵירוֹפָּה
+81,CZ,צֶ'כְיָה,Czech Republic,Europe,אֵירוֹפָּה
+82,FR,צָרְפַת,France,Europe,אֵירוֹפָּה
+83,CY,קַפְרִיסִין,Cyprus,Europe,אֵירוֹפָּה
+84,HR,קְרוֹאַטְיָה,Croatia,Europe,אֵירוֹפָּה
+85,RO,רוּמֶנְיָה,Romania,Europe,אֵירוֹפָּה
+86,RU,רוּסְיָה,Russia,Europe,אֵירוֹפָּה
+87,SE,שְׁוֵדְיָה,Sweden,Europe,אֵירוֹפָּה
+88,CH,שְׁוֵיצַרְיָה,Switzerland,Europe,אֵירוֹפָּה
+89,UG,אוּגַנְדָּה,Uganda,Africa,אַפְרִיקָה
+90,DZ,אַלְגִ'רְיָה,Algeria,Africa,אַפְרִיקָה
+91,AO,אַנְגּוֹלָה,Angola,Africa,אַפְרִיקָה
+92,ER,אֶרִיתְרְאָה,Eritrea,Africa,אַפְרִיקָה
+93,ET,אֶתְיוֹפְּיָה,Ethiopia,Africa,אַפְרִיקָה
+94,BW,בּוֹצְוַאנָה,Botswana,Africa,אַפְרִיקָה
+95,GH,גָּאנָה,Ghana,Africa,אַפְרִיקָה
+96,ZA,דְּרוֹם אַפְרִיקָה,South Africa,Africa,אַפְרִיקָה
+97,SS,דְּרוֹם סוּדָן,South Sudan,Africa,אַפְרִיקָה
+98,ZW,זִימְבַּבְּוֶה,Zimbabwe,Africa,אַפְרִיקָה
+99,ZM,זַמְבְּיָה,Zambia,Africa,אַפְרִיקָה
+100,CI,חוֹף הַשְּׁנַהָב,Ivory Coast,Africa,אַפְרִיקָה
+101,TZ,טַנְזַנְיָה,Tanzania,Africa,אַפְרִיקָה
+102,LY,לוּב,Libya,Africa,אַפְרִיקָה
+103,ML,מַאלִי,Mali,Africa,אַפְרִיקָה
+104,MG,מָדַגַסְקָר,Madagascar,Africa,אַפְרִיקָה
+105,MZ,מוֹזַמְבִּיק,Mozambique,Africa,אַפְרִיקָה
+106,MW,מָלַאוִוי,Malawi,Africa,אַפְרִיקָה
+107,EG,מִצְרַיִם,Egypt,Africa,אַפְרִיקָה
+108,MA,מָרוֹקוֹ,Morocco,Africa,אַפְרִיקָה
+109,NG,נִיגֶרְיָה,Nigeria,Africa,אַפְרִיקָה
+110,NA,נָמִיבְּיָה,Namibia,Africa,אַפְרִיקָה
+111,SD,סוּדָן,Sudan,Africa,אַפְרִיקָה
+112,SO,סוֹמַלְיָה,Somalia,Africa,אַפְרִיקָה
+113,SN,סֶנֶגַל,Senegal,Africa,אַפְרִיקָה
+114,CD,קוֹנְגּוֹ הַדֵּמוֹקְרָטִית,DR Congo,Africa,אַפְרִיקָה
+115,CM,קָמֶרוּן,Cameroon,Africa,אַפְרִיקָה
+116,KE,קֵנְיָה,Kenya,Africa,אַפְרִיקָה
+117,RW,רְוַואנְדָה,Rwanda,Africa,אַפְרִיקָה
+118,TN,תּוּנִיסְיָה,Tunisia,Africa,אַפְרִיקָה
+119,SV,אֶל סַלְוָדוֹר,El Salvador,North America,אָמֶרִיקָה הַצְּפוֹנִית
+120,US,אַרְצוֹת הַבְּרִית,United States,North America,אָמֶרִיקָה הַצְּפוֹנִית
+121,JM,גָ'מַיְקָה,Jamaica,North America,אָמֶרִיקָה הַצְּפוֹנִית
+122,GT,גּוּאָטֵמָלָה,Guatemala,North America,אָמֶרִיקָה הַצְּפוֹנִית
+123,HT,הַאִיטִי,Haiti,North America,אָמֶרִיקָה הַצְּפוֹנִית
+124,HN,הוֹנְדּוּרַס,Honduras,North America,אָמֶרִיקָה הַצְּפוֹנִית
+125,DO,הָרֶפּוּבְּלִיקָה הַדּוֹמִינִיקָנִית,Dominican Republic,North America,אָמֶרִיקָה הַצְּפוֹנִית
+126,TT,טְרִינִידָד וְטוֹבָּגוֹ,Trinidad and Tobago,North America,אָמֶרִיקָה הַצְּפוֹנִית
+127,MX,מֶקְסִיקוֹ,Mexico,North America,אָמֶרִיקָה הַצְּפוֹנִית
+128,NI,נִיקָרָגְוָה,Nicaragua,North America,אָמֶרִיקָה הַצְּפוֹנִית
+129,PA,פָּנַמָה,Panama,North America,אָמֶרִיקָה הַצְּפוֹנִית
+130,CU,קוּבָּה,Cuba,North America,אָמֶרִיקָה הַצְּפוֹנִית
+131,CR,קוֹסְטָה רִיקָה,Costa Rica,North America,אָמֶרִיקָה הַצְּפוֹנִית
+132,CA,קָנָדָה,Canada,North America,אָמֶרִיקָה הַצְּפוֹנִית
+133,UY,אוּרוּגְוַאי,Uruguay,South America,אָמֶרִיקָה הַדְּרוֹמִית
+134,EC,אֶקְוָדוֹר,Ecuador,South America,אָמֶרִיקָה הַדְּרוֹמִית
+135,AR,אַרְגֶּנְטִינָה,Argentina,South America,אָמֶרִיקָה הַדְּרוֹמִית
+136,BO,בּוֹלִיבְיָה,Bolivia,South America,אָמֶרִיקָה הַדְּרוֹמִית
+137,BR,בְּרָזִיל,Brazil,South America,אָמֶרִיקָה הַדְּרוֹמִית
+138,GY,גַּיָאנָה,Guyana,South America,אָמֶרִיקָה הַדְּרוֹמִית
+139,VE,וֶנֶצְוֵאלָה,Venezuela,South America,אָמֶרִיקָה הַדְּרוֹמִית
+140,SR,סוּרִינָאם,Suriname,South America,אָמֶרִיקָה הַדְּרוֹמִית
+141,PY,פָּרַגְוַאי,Paraguay,South America,אָמֶרִיקָה הַדְּרוֹמִית
+142,PE,פֶּרוּ,Peru,South America,אָמֶרִיקָה הַדְּרוֹמִית
+143,CL,צ'ִילֵה,Chile,South America,אָמֶרִיקָה הַדְּרוֹמִית
+144,CO,קוֹלוֹמְבִּיָּה,Colombia,South America,אָמֶרִיקָה הַדְּרוֹמִית
+145,AU,אוֹסְטְרַלְיָה,Australia,Oceania,אוֹקְיָינוּסְיָה
+146,TO,טוֹנְגָה,Tonga,Oceania,אוֹקְיָינוּסְיָה
+147,NZ,נְיוּ זִילַנְד,New Zealand,Oceania,אוֹקְיָינוּסְיָה
+148,WS,סָמוֹאָה,Samoa,Oceania,אוֹקְיָינוּסְיָה
+149,FJ,פִיגִ'י,Fiji,Oceania,אוֹקְיָינוּסְיָה
+150,PG,פָּפּוּאָה גִינֵאָה הַחֲדָשָׁה,Papua New Guinea,Oceania,אוֹקְיָינוּסְיָה

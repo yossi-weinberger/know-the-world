@@ -9,11 +9,11 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Canberra", he: "קַנְבֵּרָה" },
     currency: { code: "AUD", symbol: "$", nameHe: "דּוֹלָר אוֹסְטְרַלִי" },
     languages: [{ he: "אַנְגְּלִית" }],
-    population: { value: 26500000, year: 2024 },
+    population: {"value":27614411,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AU","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🦘",
       titleHe: "קֶנְגּוּרוּ",
-      descriptionHe: "הַקֶּנְגּוּרוּ חַי רַק בְּאוֹסְטְרַלְיָה. הַנְּקֵבָה נוֹשֵׂאת אֶת הַגּוּר בְּכִיס עַל הַבֶּטֶן — וְיֵשׁ שָׁם יוֹתֵר קֶנְגּוּרוּאִים מֵאֲנָשִׁים.",
+      descriptionHe: "הַקֶּנְגּוּרוּ הוּא מֵחַיּוֹתֶיהָ הַמֻּכָּרוֹת שֶׁל אוֹסְטְרַלְיָה. הַנְּקֵבָה נוֹשֵׂאת אֶת הַגּוּר בַּכִּיס שֶׁעַל בִּטְנָהּ. יֵשׁ גַּם קֶנְגּוּרוּ עֵצִים הַחַיִּים בְּגִינֵאָה הַחֲדָשָׁה.",
     },
     funFactHe: "אוֹסְטְרַלְיָה הִיא גַּם מְדִינָה וְגַם יַבֶּשֶׁת שְׁלֵמָה. כְּשֶׁבָּאָרֶץ חֹרֶף — שָׁם קַיִץ.",
     hello: { text: "G'day", pronunciationHe: "גְּדֵיי" },
@@ -28,7 +28,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Wellington", he: "וֶלִינְגְטוֹן" },
     currency: { code: "NZD", symbol: "$", nameHe: "דּוֹלָר נְיוּ-זִילַנְדִּי" },
     languages: [{ he: "אַנְגְּלִית" }, { he: "מָאוֹרִית" }],
-    population: { value: 5100000, year: 2024 },
+    population: {"value":5324700,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NZ","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🥝",
       titleHe: "עוֹף הַקִּיוִי",
@@ -47,7 +47,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Port Moresby", he: "פּוֹרְט מוֹרֶסְבִּי" },
     currency: { code: "PGK", symbol: "K", nameHe: "קִינָה" },
     languages: [{ he: "אַנְגְּלִית" }, { he: "טוֹק פִּיסִין" }],
-    population: { value: 10000000, year: 2024 },
+    population: {"value":10762817,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PG","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🦜",
       titleHe: "צִפּוֹר גַּן הָעֵדֶן",
@@ -65,8 +65,8 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     continentHe: "אוֹקְיָינוּסְיָה",
     capital: { en: "Suva", he: "סוּוָה" },
     currency: { code: "FJD", symbol: "$", nameHe: "דּוֹלָר פִיגִ'יִי" },
-    languages: [{ he: "אַנְגְּלִית" }, { he: "פִיגִ'יִית" }],
-    population: { value: 930000, year: 2024 },
+    languages: [{"he":"אַנְגְּלִית"},{"he":"פִיגִ'יִית"},{"he":"הִינְדִי"}],
+    population: {"value":933154,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FJ","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏝️",
       titleHe: "אִיֵּי הַגַּן הַטְּרוֹפִּי",
@@ -85,7 +85,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Apia", he: "אָפִּיָה" },
     currency: { code: "WST", symbol: "T", nameHe: "טָאלָה סָמוֹאִי" },
     languages: [{ he: "סָמוֹאִית" }, { he: "אַנְגְּלִית" }],
-    population: { value: 220000, year: 2024 },
+    population: {"value":219306,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=WS","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌺",
       titleHe: "הַמִּשְׁפָּחָה וְהַכְּפָר",
@@ -104,7 +104,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Nuku'alofa", he: "נוּקוּאָלוֹפָה" },
     currency: { code: "TOP", symbol: "T$", nameHe: "פַּאאַנְגָה טוֹנְגִי" },
     languages: [{ he: "טוֹנְגִית" }, { he: "אַנְגְּלִית" }],
-    population: { value: 100000, year: 2024 },
+    population: {"value":103742,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TO","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🐋",
       titleHe: "לִוְיָתְנֵי הַגַּבְנוֹן",
