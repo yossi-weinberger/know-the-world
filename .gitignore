@@ -1,0 +1,8 @@
+node_modules/
+artifacts/
+tmp/
+audit/sources/*.candidate.json
+output/pdf/
+data/countries.js
+assets/continent-placeholders/
+audit/fact-corrections-extra.json

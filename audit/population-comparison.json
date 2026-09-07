@@ -1,0 +1,2252 @@
+[
+  {
+    "code": "IL",
+    "name": "Israel",
+    "original2024": 9900000,
+    "reference2024": 10002200,
+    "deviationPercent": -1.022,
+    "current": {
+      "value": 10122800,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IL",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "original2024": 123600000,
+    "reference2024": 123975371,
+    "deviationPercent": -0.303,
+    "current": {
+      "value": 123366734,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JP",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "original2024": 1409700000,
+    "reference2024": 1408975000,
+    "deviationPercent": 0.051,
+    "current": {
+      "value": 1406585000,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CN",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "original2024": 1441700000,
+    "reference2024": 1450935791,
+    "deviationPercent": -0.637,
+    "current": {
+      "value": 1463865525,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IN",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "original2024": 85400000,
+    "reference2024": 85518661,
+    "deviationPercent": -0.139,
+    "current": {
+      "value": 85878556,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TR",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "original2024": 51700000,
+    "reference2024": 51751065,
+    "deviationPercent": -0.099,
+    "current": {
+      "value": 51684564,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KR",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "original2024": 71800000,
+    "reference2024": 71668011,
+    "deviationPercent": 0.184,
+    "current": {
+      "value": 71619863,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TH",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "original2024": 10000000,
+    "reference2024": 10986400,
+    "deviationPercent": -8.978,
+    "current": {
+      "value": 11513149,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AE",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "original2024": 278000000,
+    "reference2024": 283487931,
+    "deviationPercent": -1.936,
+    "current": {
+      "value": 285721236,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ID",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "original2024": 10800000,
+    "reference2024": 11552876,
+    "deviationPercent": -6.517,
+    "current": {
+      "value": 11520684,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JO",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "original2024": 36000000,
+    "reference2024": 35300280,
+    "deviationPercent": 1.982,
+    "current": {
+      "value": 36973555,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SA",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "original2024": 98000000,
+    "reference2024": 100987686,
+    "deviationPercent": -2.958,
+    "current": {
+      "value": 101598527,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VN",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "original2024": 115000000,
+    "reference2024": 115843670,
+    "deviationPercent": -0.728,
+    "current": {
+      "value": 116786962,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PH",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "original2024": 5900000,
+    "reference2024": 6036860,
+    "deviationPercent": -2.267,
+    "current": {
+      "value": 6111175,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SG",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "original2024": 30000000,
+    "reference2024": 29651054,
+    "deviationPercent": 1.177,
+    "current": {
+      "value": 29618118,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NP",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "original2024": 231000000,
+    "reference2024": 251269164,
+    "deviationPercent": -8.067,
+    "current": {
+      "value": 255219554,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PK",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "original2024": 87000000,
+    "reference2024": 91567738,
+    "deviationPercent": -4.988,
+    "current": {
+      "value": 92417681,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IR",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "original2024": 33000000,
+    "reference2024": 35557673,
+    "deviationPercent": -7.193,
+    "current": {
+      "value": 35977838,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MY",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "original2024": 3400000,
+    "reference2024": 3524788,
+    "deviationPercent": -3.54,
+    "current": {
+      "value": 3568978,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MN",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "original2024": 19000000,
+    "reference2024": 20592571,
+    "deviationPercent": -7.734,
+    "current": {
+      "value": 20843754,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KZ",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "original2024": 170000000,
+    "reference2024": 173562364,
+    "deviationPercent": -2.052,
+    "current": {
+      "value": 175686899,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "original2024": 17000000,
+    "reference2024": 17638801,
+    "deviationPercent": -3.622,
+    "current": {
+      "value": 17847982,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KH",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "original2024": 2900000,
+    "reference2024": 2857822,
+    "deviationPercent": 1.476,
+    "current": {
+      "value": 2972215,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=QA",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "original2024": 42000000,
+    "reference2024": 46042015,
+    "deviationPercent": -8.779,
+    "current": {
+      "value": 47020774,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IQ",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "original2024": 780000,
+    "reference2024": 791524,
+    "deviationPercent": -1.456,
+    "current": {
+      "value": 796682,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BT",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "original2024": 520000,
+    "reference2024": 527799,
+    "deviationPercent": -1.478,
+    "current": {
+      "value": 529676,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MV",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "original2024": 36000000,
+    "reference2024": 36361859,
+    "deviationPercent": -0.995,
+    "current": {
+      "value": 37053428,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UZ",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "original2024": 54000000,
+    "reference2024": 54500091,
+    "deviationPercent": -0.918,
+    "current": {
+      "value": 54850648,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MM",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "original2024": 22000000,
+    "reference2024": 21916000,
+    "deviationPercent": 0.383,
+    "current": {
+      "value": 21756000,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LK",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "original2024": 4600000,
+    "reference2024": 5281538,
+    "deviationPercent": -12.904,
+    "current": {
+      "value": 5494691,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=OM",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "original2024": 5500000,
+    "reference2024": 5805962,
+    "deviationPercent": -5.27,
+    "current": {
+      "value": 5849421,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LB",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "original2024": 34500000,
+    "reference2024": 40583164,
+    "deviationPercent": -14.989,
+    "current": {
+      "value": 41773878,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=YE",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SY",
+    "name": "Syria",
+    "original2024": 23000000,
+    "reference2024": 24672760,
+    "deviationPercent": -6.78,
+    "current": {
+      "value": 25620427,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SY",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "original2024": 2800000,
+    "reference2024": 3033500,
+    "deviationPercent": -7.697,
+    "current": {
+      "value": 3086700,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AM",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "original2024": 43000000,
+    "reference2024": 42647492,
+    "deviationPercent": 0.827,
+    "current": {
+      "value": 43844111,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AF",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "original2024": 7700000,
+    "reference2024": 7769819,
+    "deviationPercent": -0.899,
+    "current": {
+      "value": 7873046,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LA",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "original2024": 10200000,
+    "reference2024": 10202830,
+    "deviationPercent": -0.028,
+    "current": {
+      "value": 10246996,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AZ",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "original2024": 4900000,
+    "reference2024": 4897263,
+    "deviationPercent": 0.056,
+    "current": {
+      "value": 4865298,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KW",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "original2024": 7100000,
+    "reference2024": 7221868,
+    "deviationPercent": -1.687,
+    "current": {
+      "value": 7343064,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KG",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "original2024": 10100000,
+    "reference2024": 10590927,
+    "deviationPercent": -4.635,
+    "current": {
+      "value": 10786734,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TJ",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "original2024": 6500000,
+    "reference2024": 7494498,
+    "deviationPercent": -13.27,
+    "current": {
+      "value": 7618847,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TM",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "original2024": 1500000,
+    "reference2024": 1588670,
+    "deviationPercent": -5.581,
+    "current": {
+      "value": 1600366,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BH",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "KP",
+    "name": "North Korea",
+    "original2024": 26000000,
+    "reference2024": 26498823,
+    "deviationPercent": -1.882,
+    "current": {
+      "value": 26571036,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KP",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "original2024": 68400000,
+    "reference2024": 68551653,
+    "deviationPercent": -0.221,
+    "current": {
+      "value": 68720337,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FR",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "original2024": 67900000,
+    "reference2024": 69281000,
+    "deviationPercent": -1.993,
+    "current": {
+      "value": 69487000,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GB",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "original2024": 58800000,
+    "reference2024": 58952704,
+    "deviationPercent": -0.259,
+    "current": {
+      "value": 58915656,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IT",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "original2024": 84600000,
+    "reference2024": 83516593,
+    "deviationPercent": 1.297,
+    "current": {
+      "value": 83491249,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DE",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "original2024": 47900000,
+    "reference2024": 48848840,
+    "deviationPercent": -1.942,
+    "current": {
+      "value": 49355143,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ES",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "original2024": 10000000,
+    "reference2024": 10405134,
+    "deviationPercent": -3.894,
+    "current": {
+      "value": 10413962,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GR",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "original2024": 17900000,
+    "reference2024": 17993485,
+    "deviationPercent": -0.52,
+    "current": {
+      "value": 18087633,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NL",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "original2024": 144200000,
+    "reference2024": 143669648,
+    "deviationPercent": 0.369,
+    "current": {
+      "value": 143513328,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RU",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "original2024": 3700000,
+    "reference2024": 3812518,
+    "deviationPercent": -2.951,
+    "current": {
+      "value": 3935766,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GE",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "original2024": 10300000,
+    "reference2024": 10694681,
+    "deviationPercent": -3.69,
+    "current": {
+      "value": 10804871,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PT",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "original2024": 8800000,
+    "reference2024": 9005582,
+    "deviationPercent": -2.283,
+    "current": {
+      "value": 9092436,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CH",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "original2024": 10600000,
+    "reference2024": 10569709,
+    "deviationPercent": 0.287,
+    "current": {
+      "value": 10596620,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SE",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "original2024": 5500000,
+    "reference2024": 5572279,
+    "deviationPercent": -1.297,
+    "current": {
+      "value": 5610870,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NO",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "original2024": 41000000,
+    "reference2024": 36559233,
+    "deviationPercent": 12.147,
+    "current": {
+      "value": 36435861,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PL",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "original2024": 5900000,
+    "reference2024": 5976992,
+    "deviationPercent": -1.288,
+    "current": {
+      "value": 6009169,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DK",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "original2024": 9100000,
+    "reference2024": 9177982,
+    "deviationPercent": -0.85,
+    "current": {
+      "value": 9208163,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AT",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "original2024": 11700000,
+    "reference2024": 11858610,
+    "deviationPercent": -1.338,
+    "current": {
+      "value": 11941781,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BE",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "original2024": 5600000,
+    "reference2024": 5619911,
+    "deviationPercent": -0.354,
+    "current": {
+      "value": 5646436,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FI",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "original2024": 5100000,
+    "reference2024": 5395790,
+    "deviationPercent": -5.482,
+    "current": {
+      "value": 5484367,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IE",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "original2024": 10900000,
+    "reference2024": 10905028,
+    "deviationPercent": -0.046,
+    "current": {
+      "value": 10886878,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CZ",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "original2024": 38000000,
+    "reference2024": 37860221,
+    "deviationPercent": 0.369,
+    "current": {
+      "value": 38980376,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UA",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "original2024": 9700000,
+    "reference2024": 9562065,
+    "deviationPercent": 1.443,
+    "current": {
+      "value": 9514251,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HU",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "original2024": 19000000,
+    "reference2024": 19051804,
+    "deviationPercent": -0.272,
+    "current": {
+      "value": 19020271,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RO",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "original2024": 380000,
+    "reference2024": 386506,
+    "deviationPercent": -1.683,
+    "current": {
+      "value": 392404,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IS",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "original2024": 4000000,
+    "reference2024": 3866200,
+    "deviationPercent": 3.461,
+    "current": {
+      "value": 3876200,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HR",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "original2024": 6500000,
+    "reference2024": 6441421,
+    "deviationPercent": 0.909,
+    "current": {
+      "value": 6433302,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BG",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "original2024": 6800000,
+    "reference2024": 6586476,
+    "deviationPercent": 3.242,
+    "current": {
+      "value": 6549143,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RS",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "original2024": 1400000,
+    "reference2024": 1372341,
+    "deviationPercent": 2.015,
+    "current": {
+      "value": 1366475,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=EE",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "original2024": 2800000,
+    "reference2024": 2888278,
+    "deviationPercent": -3.056,
+    "current": {
+      "value": 2888774,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LT",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "original2024": 5500000,
+    "reference2024": 5422069,
+    "deviationPercent": 1.437,
+    "current": {
+      "value": 5413813,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SK",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "original2024": 2100000,
+    "reference2024": 2127400,
+    "deviationPercent": -1.288,
+    "current": {
+      "value": 2130986,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SI",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "original2024": 1800000,
+    "reference2024": 1866124,
+    "deviationPercent": -3.543,
+    "current": {
+      "value": 1847785,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LV",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "original2024": 2800000,
+    "reference2024": 2377128,
+    "deviationPercent": 17.789,
+    "current": {
+      "value": 2349580,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AL",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "original2024": 660000,
+    "reference2024": 677012,
+    "deviationPercent": -2.513,
+    "current": {
+      "value": 686970,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LU",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "original2024": 530000,
+    "reference2024": 568847,
+    "deviationPercent": -6.829,
+    "current": {
+      "value": 579704,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MT",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "original2024": 9100000,
+    "reference2024": 9132629,
+    "deviationPercent": -0.357,
+    "current": {
+      "value": 9085991,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BY",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "original2024": 2500000,
+    "reference2024": 2402306,
+    "deviationPercent": 4.067,
+    "current": {
+      "value": 2360527,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MD",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "original2024": 1300000,
+    "reference2024": 1358282,
+    "deviationPercent": -4.291,
+    "current": {
+      "value": 1370754,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CY",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "original2024": 3200000,
+    "reference2024": 3164253,
+    "deviationPercent": 1.13,
+    "current": {
+      "value": 3140095,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BA",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "original2024": 1800000,
+    "reference2024": 1824359,
+    "deviationPercent": -1.335,
+    "current": {
+      "value": 1820909,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MK",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "original2024": 620000,
+    "reference2024": 623525,
+    "deviationPercent": -0.565,
+    "current": {
+      "value": 623129,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ME",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "original2024": 80000,
+    "reference2024": 81938,
+    "deviationPercent": -2.365,
+    "current": {
+      "value": 82904,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AD",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "original2024": 39000,
+    "reference2024": 38631,
+    "deviationPercent": 0.955,
+    "current": {
+      "value": 38341,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MC",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "original2024": 40000,
+    "reference2024": 40450,
+    "deviationPercent": -1.112,
+    "current": {
+      "value": 41024,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LI",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "original2024": 34000,
+    "reference2024": 33977,
+    "deviationPercent": 0.068,
+    "current": {
+      "value": 34109,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SM",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "original2024": 106400000,
+    "reference2024": 116538258,
+    "deviationPercent": -8.7,
+    "current": {
+      "value": 118365995,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=EG",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "original2024": 60600000,
+    "reference2024": 64007187,
+    "deviationPercent": -5.323,
+    "current": {
+      "value": 64747319,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ZA",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "original2024": 37500000,
+    "reference2024": 38081173,
+    "deviationPercent": -1.526,
+    "current": {
+      "value": 38430770,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MA",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "original2024": 56000000,
+    "reference2024": 56432944,
+    "deviationPercent": -0.767,
+    "current": {
+      "value": 57532493,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KE",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "original2024": 230000000,
+    "reference2024": 232679478,
+    "deviationPercent": -1.152,
+    "current": {
+      "value": 237527782,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NG",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "original2024": 127000000,
+    "reference2024": 132059767,
+    "deviationPercent": -3.831,
+    "current": {
+      "value": 135472051,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ET",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "original2024": 65500000,
+    "reference2024": 68560157,
+    "deviationPercent": -4.463,
+    "current": {
+      "value": 70545865,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TZ",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "original2024": 33500000,
+    "reference2024": 34427414,
+    "deviationPercent": -2.694,
+    "current": {
+      "value": 35064272,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GH",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "original2024": 29000000,
+    "reference2024": 31964956,
+    "deviationPercent": -9.276,
+    "current": {
+      "value": 32740678,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MG",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "original2024": 46000000,
+    "reference2024": 46814308,
+    "deviationPercent": -1.739,
+    "current": {
+      "value": 47435312,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DZ",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CD",
+    "name": "DR Congo",
+    "original2024": 102000000,
+    "reference2024": 109276265,
+    "deviationPercent": -6.659,
+    "current": {
+      "value": 112832473,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CD",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "original2024": 48000000,
+    "reference2024": 50015092,
+    "deviationPercent": -4.029,
+    "current": {
+      "value": 51384894,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UG",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "original2024": 12000000,
+    "reference2024": 12277109,
+    "deviationPercent": -2.257,
+    "current": {
+      "value": 12348573,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TN",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "original2024": 28000000,
+    "reference2024": 29123744,
+    "deviationPercent": -3.859,
+    "current": {
+      "value": 29879337,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CM",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "original2024": 17000000,
+    "reference2024": 18501984,
+    "deviationPercent": -8.118,
+    "current": {
+      "value": 18931966,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SN",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "original2024": 14000000,
+    "reference2024": 14256567,
+    "deviationPercent": -1.8,
+    "current": {
+      "value": 14569341,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RW",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "original2024": 2700000,
+    "reference2024": 3030131,
+    "deviationPercent": -10.895,
+    "current": {
+      "value": 3092816,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NA",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "original2024": 16000000,
+    "reference2024": 16634373,
+    "deviationPercent": -3.814,
+    "current": {
+      "value": 16950795,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ZW",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CI",
+    "name": "Ivory Coast",
+    "original2024": 27000000,
+    "reference2024": 31934230,
+    "deviationPercent": -15.451,
+    "current": {
+      "value": 32711547,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CI",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "original2024": 34000000,
+    "reference2024": 37885849,
+    "deviationPercent": -10.257,
+    "current": {
+      "value": 39040039,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AO",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "original2024": 46000000,
+    "reference2024": 50448963,
+    "deviationPercent": -8.819,
+    "current": {
+      "value": 51662147,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SD",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "original2024": 20000000,
+    "reference2024": 21314956,
+    "deviationPercent": -6.169,
+    "current": {
+      "value": 21913874,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ZM",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "original2024": 2600000,
+    "reference2024": 2521139,
+    "deviationPercent": 3.128,
+    "current": {
+      "value": 2562122,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BW",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "original2024": 7200000,
+    "reference2024": 7381023,
+    "deviationPercent": -2.453,
+    "current": {
+      "value": 7458555,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LY",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "original2024": 34000000,
+    "reference2024": 34631766,
+    "deviationPercent": -1.824,
+    "current": {
+      "value": 35631653,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MZ",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "original2024": 24000000,
+    "reference2024": 24478595,
+    "deviationPercent": -1.955,
+    "current": {
+      "value": 25198821,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ML",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "original2024": 18000000,
+    "reference2024": 19009151,
+    "deviationPercent": -5.309,
+    "current": {
+      "value": 19654739,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SO",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "original2024": 21000000,
+    "reference2024": 21655286,
+    "deviationPercent": -3.026,
+    "current": {
+      "value": 22216120,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MW",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "original2024": 3700000,
+    "reference2024": 3535603,
+    "deviationPercent": 4.65,
+    "current": {
+      "value": 3607003,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ER",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "original2024": 11500000,
+    "reference2024": 11943408,
+    "deviationPercent": -3.713,
+    "current": {
+      "value": 12188788,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SS",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "original2024": 335900000,
+    "reference2024": 340003797,
+    "deviationPercent": -1.207,
+    "current": {
+      "value": 341784857,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=US",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "original2024": 40100000,
+    "reference2024": 41262329,
+    "deviationPercent": -2.817,
+    "current": {
+      "value": 41651653,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CA",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "original2024": 129700000,
+    "reference2024": 130861007,
+    "deviationPercent": -0.887,
+    "current": {
+      "value": 131946900,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MX",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "original2024": 11200000,
+    "reference2024": 10979783,
+    "deviationPercent": 2.006,
+    "current": {
+      "value": 10937203,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CU",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "original2024": 5200000,
+    "reference2024": 5129910,
+    "deviationPercent": 1.366,
+    "current": {
+      "value": 5152950,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CR",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "original2024": 2800000,
+    "reference2024": 2839175,
+    "deviationPercent": -1.38,
+    "current": {
+      "value": 2837077,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JM",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "original2024": 11300000,
+    "reference2024": 11427557,
+    "deviationPercent": -1.116,
+    "current": {
+      "value": 11520487,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DO",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "original2024": 18000000,
+    "reference2024": 18406359,
+    "deviationPercent": -2.208,
+    "current": {
+      "value": 18687881,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GT",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "original2024": 4400000,
+    "reference2024": 4515577,
+    "deviationPercent": -2.56,
+    "current": {
+      "value": 4571189,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PA",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "original2024": 11000000,
+    "reference2024": 11772557,
+    "deviationPercent": -6.562,
+    "current": {
+      "value": 11906095,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HT",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "original2024": 10000000,
+    "reference2024": 10825703,
+    "deviationPercent": -7.627,
+    "current": {
+      "value": 11005850,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HN",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "original2024": 7000000,
+    "reference2024": 6916140,
+    "deviationPercent": 1.213,
+    "current": {
+      "value": 7007502,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NI",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "original2024": 6500000,
+    "reference2024": 6338193,
+    "deviationPercent": 2.553,
+    "current": {
+      "value": 6365503,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SV",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "original2024": 1400000,
+    "reference2024": 1368333,
+    "deviationPercent": 2.314,
+    "current": {
+      "value": 1367764,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TT",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "original2024": 216400000,
+    "reference2024": 211998573,
+    "deviationPercent": 2.076,
+    "current": {
+      "value": 212812405,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BR",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "original2024": 46400000,
+    "reference2024": 45696159,
+    "deviationPercent": 1.54,
+    "current": {
+      "value": 45851378,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AR",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "original2024": 33000000,
+    "reference2024": 34217848,
+    "deviationPercent": -3.559,
+    "current": {
+      "value": 34576665,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PE",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "original2024": 19600000,
+    "reference2024": 19764771,
+    "deviationPercent": -0.834,
+    "current": {
+      "value": 19859921,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CL",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "original2024": 52200000,
+    "reference2024": 52886363,
+    "deviationPercent": -1.298,
+    "current": {
+      "value": 53425635,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CO",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "original2024": 18000000,
+    "reference2024": 18135478,
+    "deviationPercent": -0.747,
+    "current": {
+      "value": 18289896,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=EC",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "original2024": 12400000,
+    "reference2024": 12413315,
+    "deviationPercent": -0.107,
+    "current": {
+      "value": 12581843,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BO",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "original2024": 28000000,
+    "reference2024": 28405543,
+    "deviationPercent": -1.428,
+    "current": {
+      "value": 28516896,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VE",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "original2024": 3500000,
+    "reference2024": 3386588,
+    "deviationPercent": 3.349,
+    "current": {
+      "value": 3384688,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UY",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "original2024": 7400000,
+    "reference2024": 6929153,
+    "deviationPercent": 6.795,
+    "current": {
+      "value": 7013078,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PY",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "original2024": 800000,
+    "reference2024": 831087,
+    "deviationPercent": -3.741,
+    "current": {
+      "value": 835986,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GY",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "original2024": 630000,
+    "reference2024": 634431,
+    "deviationPercent": -0.698,
+    "current": {
+      "value": 639850,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SR",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "original2024": 26500000,
+    "reference2024": 27194286,
+    "deviationPercent": -2.553,
+    "current": {
+      "value": 27614411,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AU",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "original2024": 5100000,
+    "reference2024": 5290000,
+    "deviationPercent": -3.592,
+    "current": {
+      "value": 5324700,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NZ",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "original2024": 10000000,
+    "reference2024": 10576502,
+    "deviationPercent": -5.451,
+    "current": {
+      "value": 10762817,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PG",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "original2024": 930000,
+    "reference2024": 928784,
+    "deviationPercent": 0.131,
+    "current": {
+      "value": 933154,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FJ",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "original2024": 220000,
+    "reference2024": 218019,
+    "deviationPercent": 0.909,
+    "current": {
+      "value": 219306,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=WS",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "original2024": 100000,
+    "reference2024": 104175,
+    "deviationPercent": -4.008,
+    "current": {
+      "value": 103742,
+      "year": 2025,
+      "source": "World Bank — SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TO",
+      "retrievedAt": "2026-09-07",
+      "datasetUpdatedAt": "2026-07-13"
+    }
+  }
+]

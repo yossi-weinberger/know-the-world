@@ -6,7 +6,7 @@
     <title>מדינות העולם</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link
-      href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;600;700;900&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;600;700;900&family=Noto+Serif+Hebrew:wght@600;700&display=swap"
       rel="stylesheet"
     />
     <script src="data/asia.js"></script>
@@ -15,6 +15,8 @@
     <script src="data/north-america.js"></script>
     <script src="data/south-america.js"></script>
     <script src="data/oceania.js"></script>
+    <script src="data/country-map-index.js"></script>
+    <script src="js/helpers.js"></script>
     <style id="print-page-style">
       @page {
         size: A4 landscape;
@@ -131,12 +133,6 @@
         white-space: nowrap;
       }
 
-      .rate-status {
-        font-size: 0.75rem;
-        color: #94a3b8;
-        white-space: nowrap;
-      }
-
       /* ── Cards grid ── */
       .cards-grid {
         display: grid;
@@ -180,6 +176,23 @@
         flex-direction: column;
         justify-content: center;
         align-items: flex-start;
+      }
+
+      .country-map-number {
+        display: grid;
+        width: calc(var(--card-fs) * 2.15);
+        height: calc(var(--card-fs) * 2.15);
+        flex: 0 0 calc(var(--card-fs) * 2.15);
+        place-items: center;
+        align-self: center;
+        color: var(--accent, #334155);
+        background: white;
+        border: 2px solid currentColor;
+        border-radius: 4px;
+        font-size: 0.85em;
+        font-weight: 900;
+        line-height: 1;
+        transform: rotate(-2deg);
       }
 
       .continent-badge {
@@ -307,18 +320,39 @@
         flex-wrap: wrap;
         justify-content: center;
         align-items: center;
-        gap: 0 6px;
+        gap: 4px 7px;
         background: #f0fdf4;
-        border-radius: 6px;
-        padding: 4px 8px;
+        border: 1px solid #bbf7d0;
+        border-radius: 8px;
+        padding: 5px 8px;
         text-align: center;
         font-size: 0.78em;
         font-weight: 700;
         color: #14532d;
       }
 
-      .hello-sep {
-        color: #86efac;
+      .hello-label {
+        background: #166534;
+        color: #f0fdf4;
+        border-radius: 5px;
+        padding: 1px 7px;
+        font-size: 0.9em;
+        font-weight: 900;
+      }
+
+      .hello-native {
+        font-size: 1.12em;
+        font-weight: 900;
+        color: #14532d;
+      }
+
+      .hello-pronunciation {
+        color: #166534;
+      }
+
+      .hello-language {
+        color: #3f6212;
+        font-size: 0.86em;
         font-weight: 600;
       }
 
@@ -336,14 +370,25 @@
         min-width: 30px;
       }
 
-      /* Population note */
-      .pop-note {
-        text-align: center;
-        font-size: 0.75rem;
-        color: #94a3b8;
-        padding: 5px 20px;
-        background: #f8fafc;
-        border-bottom: 1px solid #e2e8f0;
+      .search-input { font: inherit; padding: 7px 10px; border: 1px solid #94a3b8; border-radius: 8px; width: min(240px, 100%); }
+      .results-note { padding: 8px 20px 0; color: #475569; font-size: 0.85rem; }
+      .data-note { display: block; margin-top: 3px; color: #475569; font-size: 0.85em; font-weight: 400; }
+      .empty-state { grid-column: 1 / -1; text-align: center; padding: 40px 12px; }
+      .btn:focus-visible, a:focus-visible, input:focus-visible, .print-btn:focus-visible { outline: 3px solid #0f172a; outline-offset: 3px; }
+      .name-en, .info-sub { color: #475569; }
+      .name-en, bdi { unicode-bidi: isolate; }
+      .country-card { min-width: 0; container-type: inline-size; }
+      @container (max-width: 260px) {
+        .card-info-grid { grid-template-columns: 1fr; }
+        .card-header { flex-wrap: wrap; }
+        .card-flag { max-width: 100%; }
+      }
+      @media screen and (max-width: 700px) {
+        .controls { position: static; padding: 10px 12px; }
+        .controls-inner { gap: 10px; }
+        .cards-grid { grid-template-columns: 1fr; padding: 12px; }
+        .control-group { flex-wrap: wrap; }
+        .card-flag { max-width: 30%; }
       }
 
       /* ── Continent colours ── */
@@ -384,11 +429,197 @@
         --badge-c: #6d28d9;
       }
 
+      /* ── Illustrated travel notebook ── */
+      .cont-Asia { --accent: #c84e20; --accent-pale: #f5ddcb; }
+      .cont-Europe { --accent: #1769a8; --accent-pale: #dbe9f2; }
+      .cont-Africa { --accent: #9a6a10; --accent-pale: #eee2bb; }
+      .cont-NorthAmerica { --accent: #23764a; --accent-pale: #dcebdc; }
+      .cont-SouthAmerica { --accent: #16806c; --accent-pale: #d7ece5; }
+      .cont-Oceania { --accent: #6843a7; --accent-pale: #e7def3; }
+
+      .country-card {
+        position: relative;
+        overflow: hidden;
+        color: #152536;
+        background:
+          linear-gradient(90deg, transparent 0 98%, color-mix(in srgb, var(--accent) 18%, transparent) 98% 100%),
+          #f5eedf;
+        border: 2px solid var(--accent);
+        border-radius: 5px;
+        box-shadow: 0 3px 12px rgba(77, 58, 34, 0.12);
+      }
+
+      .route-line {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0.13;
+        pointer-events: none;
+      }
+      .route-line path { fill: none; stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 6; }
+      .route-line circle { fill: var(--accent); }
+
+      .card-header {
+        position: relative;
+        z-index: 1;
+        align-items: center;
+        gap: 8px;
+        min-height: calc(var(--card-fs) * 5);
+        padding: 7px 9px 6px;
+        background: transparent;
+        border-bottom: 3px solid var(--accent);
+      }
+
+      .continent-badge {
+        display: block;
+        margin: 0 0 1px;
+        padding: 0;
+        color: var(--accent);
+        background: transparent;
+        border-radius: 0;
+        font-size: 0.62em;
+        font-weight: 800;
+      }
+
+      .name-he {
+        color: #152536;
+        font: 700 1.65em/1.02 "Noto Serif Hebrew", serif;
+        letter-spacing: -0.015em;
+      }
+
+      .name-en { margin-top: 3px; color: #65717a; font-size: 0.65em; }
+
+      .country-map-number {
+        width: calc(var(--card-fs) * 2.45);
+        height: auto;
+        min-height: calc(var(--card-fs) * 3.25);
+        flex: 0 0 calc(var(--card-fs) * 2.45);
+        align-self: stretch;
+        color: var(--accent);
+        background: transparent;
+        border: 0;
+        border-right: 2px solid currentColor;
+        border-radius: 0;
+        font-size: 0.83em;
+        transform: none;
+      }
+
+      .country-map-number::after {
+        content: attr(data-country-code);
+        font-size: 0.58em;
+        font-weight: 800;
+        letter-spacing: 0.08em;
+      }
+
+      .flag-mount {
+        flex: 0 0 calc(var(--card-fs) * 5.55);
+        padding: 4px;
+        background: #fffaf0;
+        border: 1px solid #b7ad9a;
+        transform: rotate(-1.5deg);
+      }
+
+      .card-flag {
+        width: 100%;
+        max-width: none;
+        height: calc(var(--card-fs) * 3.05);
+        border: 0;
+        border-radius: 0;
+        background: transparent;
+      }
+
+      .card-info-grid {
+        position: relative;
+        z-index: 1;
+        gap: 0;
+        margin: 0 10px;
+        padding: 7px 0;
+        background: transparent;
+        border: 0;
+        border-bottom: 1px solid #b7ad9a;
+      }
+
+      .info-cell { display: block; padding: 3px 8px; line-height: 1.15; }
+      .info-cell:nth-child(odd) { border-left: 1px dotted #b7ad9a; }
+      .info-cell-label { display: block; color: var(--accent); font-size: 0.67em; }
+      .info-cell-value { display: block; color: #152536; font-size: 0.84em; line-height: 1.2; }
+      .info-sub { color: #65717a; }
+
+      .card-mid {
+        position: relative;
+        z-index: 1;
+        justify-content: center;
+        gap: 14px;
+        padding: 12px 16px;
+      }
+
+      .card-representative,
+      .card-funfact {
+        padding: 0 9px 0 0;
+        color: #152536;
+        background: transparent;
+        border: 0;
+        border-right: 3px solid var(--accent);
+        border-radius: 0;
+        font-size: 0.82em;
+        line-height: 1.4;
+      }
+
+      .card-representative p,
+      .card-funfact p { margin: 3px 0 0; }
+      .rep-title { color: var(--accent); }
+      .rep-desc { color: #334155; }
+      .story-label { color: var(--accent); font-size: 0.72em; font-weight: 900; letter-spacing: 0.04em; }
+      .card-funfact .story-label {
+        padding: 0 4px;
+        color: #152536;
+        background: linear-gradient(transparent 42%, #f3cd55 42% 94%, transparent 94%);
+      }
+
+      .card-hello {
+        position: relative;
+        z-index: 1;
+        display: grid;
+        grid-template-columns: auto minmax(0, 1fr) auto;
+        align-items: center;
+        gap: 7px;
+        margin: 0 9px 9px;
+        padding: 6px 9px;
+        color: #fffaf0;
+        background: var(--accent);
+        border: 0;
+        border-radius: 3px;
+      }
+
+      .hello-label {
+        display: grid;
+        align-self: stretch;
+        place-items: center;
+        margin: 0;
+        padding: 0 0 0 8px;
+        color: #fffaf0;
+        background: transparent;
+        border-left: 1px solid rgba(255,255,255,.55);
+        border-radius: 0;
+      }
+      .hello-expression { display: flex; min-width: 0; align-items: baseline; justify-content: center; flex-wrap: wrap; gap: 3px 7px; text-align: center; }
+      .hello-native, .hello-pronunciation, .hello-language { color: #fffaf0; }
+      .hello-language { min-width: 4em; text-align: end; }
+
+      @container (max-width: 260px) {
+        .card-info-grid { grid-template-columns: 1fr; }
+        .info-cell:nth-child(odd) { border-left: 0; }
+        .card-header { flex-wrap: wrap; }
+        .flag-mount { max-width: 34%; }
+      }
+
       /* ── Print: respects --cols; @page size is set by #print-page-style ── */
 
       @media print {
         .controls,
-        .pop-note {
+        .results-note,
+        .booklet-btn {
           display: none !important;
         }
         html,
@@ -405,7 +636,7 @@
           gap: 3mm;
           align-items: stretch;
           grid-auto-rows: auto;
-          grid-template-columns: repeat(var(--cols), 1fr);
+          grid-template-columns: repeat(var(--cols), minmax(0, 1fr));
         }
         .country-card {
           box-shadow: none;
@@ -425,6 +656,11 @@
         <h1>🌍 מדינות העולם</h1>
 
         <div class="control-group">
+          <label for="country-search">חיפוש מדינה או בירה:</label>
+          <input id="country-search" class="search-input" type="search" placeholder="למשל: ישראל או Japan" autocomplete="off" />
+        </div>
+
+        <div class="control-group">
           <label>עמודות:</label>
           <div class="btn-group" id="col-btns">
             <button class="btn" data-cols="1">1</button>
@@ -437,7 +673,7 @@
         </div>
 
         <div class="control-group">
-          <label>גודל כרטיס:</label>
+          <label for="size-slider">גודל כרטיס:</label>
           <input type="range" id="size-slider" min="9" max="20" value="14" step="1" />
           <span class="size-value" id="size-value">14px</span>
         </div>
@@ -455,18 +691,19 @@
           <div class="btn-group" id="continent-btns"></div>
         </div>
 
-        <span class="rate-status" id="rate-status">טוען שערי מטבע...</span>
+        <a class="print-btn booklet-btn" href="booklet.html">📖 גרסת חוברת</a>
         <button class="print-btn" onclick="window.print()">🖨️ הדפסה</button>
       </div>
     </div>
 
-    <!-- Population note (shown once) -->
-    <p class="pop-note">* נתוני אוכלוסייה נכון לשנת 2024</p>
+    <p class="results-note" id="results-note" role="status" aria-live="polite"></p>
 
     <!-- Cards -->
     <div class="cards-grid" id="cards-grid"></div>
 
     <script>
+      const { matchesCountry, formatPopulation, formatRate, parseRates, escapeData, createCountryNumberMap, sortCountriesByNumber } = CountryHelpers;
+      const COUNTRY_NUMBERS = createCountryNumberMap(COUNTRY_MAP_INDEX);
       // ── Continent meta ──────────────────────────────────────────────────────
       const CONTINENTS = {
         Asia: { he: "אַסְיָה", cls: "cont-Asia", emoji: "🌏" },
@@ -487,8 +724,8 @@
 
       // ── State ───────────────────────────────────────────────────────────────
       let ilsRates = {}; // { usd: 3.67, eur: 4.1, ... } — ILS per 1 unit
-      let rateDate = null;
       let activeContinent = "all";
+      let searchQuery = "";
 
       // ── Fetch exchange rates ────────────────────────────────────────────────
       async function fetchRates() {
@@ -497,21 +734,14 @@
           // where ils.X = how many X per 1 ILS  →  ILS per 1 X = 1/ils.X
           const res = await fetch(
             "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/ils.json",
+            { signal: AbortSignal.timeout(10000) },
           );
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
           const data = await res.json();
-          const raw = data.ils;
-          rateDate = data.date;
-          for (const [code, rate] of Object.entries(raw)) {
-            if (rate && rate > 0) ilsRates[code] = 1 / rate;
-          }
-          ilsRates["ils"] = 1;
-          document.getElementById("rate-status").textContent =
-            `שערים עדכניים נכון ל-${rateDate}`;
+          const parsed = parseRates(data);
+          ilsRates = parsed.rates;
           renderCards(); // re-render with live rates
-        } catch {
-          document.getElementById("rate-status").textContent =
-            "שערי מטבע לא זמינים";
-        }
+        } catch {}
       }
 
       // ── Helpers ─────────────────────────────────────────────────────────────
@@ -519,25 +749,9 @@
         return ilsRates[code.toLowerCase()] ?? null;
       }
 
-      function formatRate(rate) {
-        if (rate == null) return null;
-        if (rate >= 1000)
-          return `≈ ${Math.round(rate).toLocaleString("he-IL")} ₪`;
-        if (rate >= 100) return `≈ ${Math.round(rate)} ₪`;
-        if (rate >= 10) return `≈ ${rate.toFixed(1)} ₪`;
-        if (rate >= 1) return `≈ ${rate.toFixed(2)} ₪`;
-        return `≈ ${rate.toFixed(3)} ₪`;
-      }
-
-      function formatPopulation(n) {
-        if (n >= 1e9) return `כ־${(n / 1e9).toFixed(1)} מִילְיַארְד`;
-        if (n >= 1e6) return `כ־${Math.round(n / 1e6)} מִילְיוֹן`;
-        if (n >= 1e3) return `כ־${Math.round(n / 1000)} אֶלֶף`;
-        return n.toLocaleString("he-IL");
-      }
-
       // ── Render one card ─────────────────────────────────────────────────────
-      function renderCard(c) {
+      function renderCard(country) {
+        const c = escapeData(country);
         const cont = CONTINENTS[c.continent] || {
           he: c.continentHe,
           cls: "cont-Asia",
@@ -553,42 +767,41 @@
         if (c.currency.code === "ILS") {
           currencyDisplay = `${c.currency.nameHe} ${c.currency.symbol}`;
         } else if (rateStr) {
-          currencyDisplay = `${c.currency.nameHe} (${c.currency.symbol}) ${rateStr}`;
+          currencyDisplay = `${c.currency.nameHe} (${c.currency.symbol})<span class="data-note"><bdi dir="ltr">1 ${c.currency.code}</bdi> ${rateStr}</span>`;
         } else {
           currencyDisplay = `${c.currency.nameHe} (${c.currency.symbol})`;
         }
 
         return `
-<div class="country-card ${cont.cls}">
+<article class="country-card ${cont.cls}" data-code="${c.code}" aria-label="${c.nameHe}">
+  <svg class="route-line" viewBox="0 0 300 420" aria-hidden="true">
+    <path d="M18 330 C80 290 42 210 118 184 S240 155 277 82" />
+    <circle cx="18" cy="330" r="4"></circle><circle cx="277" cy="82" r="4"></circle>
+  </svg>
   <div class="card-header">
     <div class="card-names">
-      <div class="continent-badge" style="background:var(--badge-bg);color:var(--badge-c)">
-        ${cont.emoji} ${c.continentHe}
-      </div>
+      <div class="continent-badge">${c.continentHe}</div>
       <div class="name-he">${c.nameHe}</div>
-      <div class="name-en">${c.nameEn}</div>
+      <div class="name-en" lang="en" dir="ltr">${c.nameEn}</div>
     </div>
-    <img class="card-flag" src="${flagUrl}" alt="דגל ${c.nameHe}" loading="eager">
+    <span class="country-map-number" data-country-code="${c.code}" aria-label="מספר ${COUNTRY_NUMBERS.get(country.code)} במפה">${COUNTRY_NUMBERS.get(country.code)}</span>
+    <span class="flag-mount"><img class="card-flag" src="${flagUrl}" alt="דגל ${c.nameHe}" loading="eager"></span>
   </div>
 
   <div class="card-info-grid">
     <div class="info-cell">
-      <span class="info-cell-icon">🏛️</span>
       <span class="info-cell-label">בִּירָה</span>
-      <span class="info-cell-value">${c.capital.he} <span class="info-sub">${c.capital.en}</span></span>
+      <span class="info-cell-value">${c.capital.he} <bdi class="info-sub" lang="en">${c.capital.en}</bdi>${c.capital.noteHe ? `<span class="data-note">${c.capital.noteHe}</span>` : ''}</span>
     </div>
     <div class="info-cell">
-      <span class="info-cell-icon">🗣️</span>
       <span class="info-cell-label">שָׂפָה</span>
       <span class="info-cell-value">${langStr}</span>
     </div>
     <div class="info-cell">
-      <span class="info-cell-icon">💰</span>
       <span class="info-cell-label">מַטְבֵּעַ</span>
-      <span class="info-cell-value">${currencyDisplay}</span>
+      <span class="info-cell-value">${currencyDisplay}${c.currency.noteHe ? `<span class="data-note">${c.currency.noteHe}</span>` : ''}</span>
     </div>
     <div class="info-cell">
-      <span class="info-cell-icon">👥</span>
       <span class="info-cell-label">אוּכְלוֹסִיָּה</span>
       <span class="info-cell-value">${pop}</span>
     </div>
@@ -596,21 +809,21 @@
 
   <div class="card-mid">
     <div class="card-representative">
-      <span class="rep-emoji">${c.representative.emoji}</span>
+      <span class="story-label">מָקוֹם וְסֵמֶל</span>
+      <p>
       <span class="rep-title">${c.representative.titleHe}</span>
-      <span class="rep-desc"> — ${c.representative.descriptionHe}</span>
+      <span class="rep-desc"> ${c.representative.descriptionHe}</span>
+      </p>
     </div>
-    <div class="card-funfact">💡 ${c.funFactHe}</div>
+    <div class="card-funfact"><span class="story-label">הֲיָדַעְתָּ?</span><p>${c.funFactHe}</p></div>
   </div>
 
   <div class="card-hello">
-    <span>👋 שָׁלוֹם</span>
-    <span class="hello-sep">|</span>
-    <span>${c.hello.text}</span>
-    <span class="hello-sep">|</span>
-    <span>${c.hello.pronunciationHe}</span>
+    <span class="hello-label">שָׁלוֹם:</span>
+    <span class="hello-expression"><bdi class="hello-native" dir="auto">${c.hello.text}</bdi><span class="hello-pronunciation">(${c.hello.pronunciationHe})</span></span>
+    <span class="hello-language">${c.hello.languageHe ? `בְּ${c.hello.languageHe}` : ''}</span>
   </div>
-</div>`;
+</article>`;
       }
 
       function equalizeRowHeights() {
@@ -619,11 +832,7 @@
           card.style.height = "";
           card.style.minHeight = "";
         });
-        const cols =
-          parseInt(
-            getComputedStyle(document.documentElement).getPropertyValue("--cols"),
-            10,
-          ) || 2;
+        const cols = getComputedStyle(document.getElementById("cards-grid")).gridTemplateColumns.split(' ').length;
         for (let i = 0; i < cards.length; i += cols) {
           const row = cards.slice(i, i + cols);
           const max = Math.max(...row.map((card) => card.offsetHeight));
@@ -633,43 +842,26 @@
         }
       }
 
-      const CONTINENT_ORDER = {
-        Asia: 0,
-        Europe: 1,
-        Africa: 2,
-        "North America": 3,
-        "South America": 4,
-        Oceania: 5,
-      };
-
-      function stripNikud(s) {
-        return s.replace(/[\u0591-\u05C7]/g, "");
-      }
-
-      function sortCountries(list) {
-        return [...list].sort((a, b) => {
-          if (a.code === "IL") return -1;
-          if (b.code === "IL") return 1;
-          const ca = CONTINENT_ORDER[a.continent] ?? 99;
-          const cb = CONTINENT_ORDER[b.continent] ?? 99;
-          if (ca !== cb) return ca - cb;
-          return stripNikud(a.nameHe).localeCompare(stripNikud(b.nameHe), "he");
-        });
-      }
-
       // ── Render all cards ────────────────────────────────────────────────────
       function renderCards() {
         const grid = document.getElementById("cards-grid");
-        const list =
+        const continentList =
           activeContinent === "all"
             ? COUNTRIES_DATA
             : COUNTRIES_DATA.filter((c) => c.continent === activeContinent);
-        grid.innerHTML = sortCountries(list).map(renderCard).join("");
+        const list = continentList.filter(c => matchesCountry(c, searchQuery));
+        grid.innerHTML = list.length ? sortCountriesByNumber(list, COUNTRY_MAP_INDEX).map(renderCard).join("") : '<p class="empty-state">לא נמצאו מדינות. אפשר לשנות את החיפוש או לבחור יבשת אחרת.</p>';
+        document.getElementById('results-note').textContent = `מוצגות ${list.length} מתוך ${COUNTRIES_DATA.length} מדינות באוסף · ההדפסה כוללת את הכרטיסים המוצגים`;
         requestAnimationFrame(equalizeRowHeights);
       }
 
       // ── Controls ────────────────────────────────────────────────────────────
       function setupControls() {
+        document.getElementById('country-search').addEventListener('input', e => {
+          searchQuery = e.target.value;
+          renderCards();
+        });
+        document.querySelectorAll('#col-btns .btn, #orient-btns .btn').forEach(btn => btn.setAttribute('aria-pressed', String(btn.classList.contains('active'))));
         // Size slider
         const slider = document.getElementById("size-slider");
         const sizeLabel = document.getElementById("size-value");
@@ -686,8 +878,9 @@
           if (!btn) return;
           document
             .querySelectorAll("#col-btns .btn")
-            .forEach((b) => b.classList.remove("active"));
+            .forEach((b) => { b.classList.remove("active"); b.setAttribute('aria-pressed', 'false'); });
           btn.classList.add("active");
+          btn.setAttribute('aria-pressed', 'true');
           document.documentElement.style.setProperty(
             "--cols",
             btn.dataset.cols,
@@ -700,8 +893,9 @@
           if (!btn) return;
           document
             .querySelectorAll("#orient-btns .btn")
-            .forEach((b) => b.classList.remove("active"));
+            .forEach((b) => { b.classList.remove("active"); b.setAttribute('aria-pressed', 'false'); });
           btn.classList.add("active");
+          btn.setAttribute('aria-pressed', 'true');
           document.getElementById("print-page-style").textContent =
             `@page { size: A4 ${btn.dataset.orient}; margin: 8mm; }`;
         });
@@ -717,7 +911,7 @@
         container.innerHTML = continents
           .map((k) => {
             const label = k === "all" ? "הַכֹּל" : CONTINENTS[k].he;
-            return `<button class="btn ${k === "all" ? "active" : ""}" data-cont="${k}">${label}</button>`;
+            return `<button class="btn ${k === "all" ? "active" : ""}" data-cont="${k}" aria-pressed="${k === 'all'}">${label}</button>`;
           })
           .join("");
 
@@ -726,8 +920,9 @@
           if (!btn) return;
           container
             .querySelectorAll(".btn")
-            .forEach((b) => b.classList.remove("active"));
+            .forEach((b) => { b.classList.remove("active"); b.setAttribute('aria-pressed', 'false'); });
           btn.classList.add("active");
+          btn.setAttribute('aria-pressed', 'true');
           activeContinent = btn.dataset.cont;
           renderCards();
         });
@@ -753,6 +948,7 @@
         true,
       );
       document.fonts?.ready?.then(() => requestAnimationFrame(equalizeRowHeights));
+      document.getElementById('cards-grid').addEventListener('toggle', () => requestAnimationFrame(equalizeRowHeights), true);
     </script>
   </body>
 </html>

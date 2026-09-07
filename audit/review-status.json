@@ -1,0 +1,4630 @@
+{
+  "checkedAt": "2026-09-07",
+  "countries": [
+    {
+      "code": "IL",
+      "nameHe": "יִשְׂרָאֵל",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IL"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/il.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "JP",
+      "nameHe": "יַפָּן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JP"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/jp.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "CN",
+      "nameHe": "סִין",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CN"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/cn.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "IN",
+      "nameHe": "הוֹדּוּ",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IN"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/in.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "TR",
+      "nameHe": "טוּרְקִיָּה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TR"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/tr.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "KR",
+      "nameHe": "דְּרוֹם קוֹרֵיאָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KR"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/kr.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "TH",
+      "nameHe": "תַּאִילַנְד",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TH"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/th.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "meaning-and-language-supported",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "AE",
+      "nameHe": "אִיחוּד הָאֶמִירַיּוֹת",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AE"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ae.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "ID",
+      "nameHe": "אִינְדּוֹנֵזְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ID"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/id.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "JO",
+      "nameHe": "יַרְדֵּן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JO"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/jo.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "SA",
+      "nameHe": "עֲרַב הַסְּעוּדִית",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SA"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/sa.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "VN",
+      "nameHe": "וְיֶטְנָם",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VN"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/vn.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "VN",
+          "field": "funFactHe",
+          "reason": "חלקה בפלפל השחור בעולם דורש הבחנה בין ייצור ליצוא ושנת מדידה."
+        }
+      ]
+    },
+    {
+      "code": "PH",
+      "nameHe": "פִילִיפִּינִים",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PH"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ph.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "SG",
+      "nameHe": "סִינְגָּפּוּר",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SG"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/sg.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "selected-list-supported",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "NP",
+      "nameHe": "נֶפָּאל",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NP"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/np.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "PK",
+      "nameHe": "פָּקִיסְטָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PK"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/pk.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "IR",
+      "nameHe": "אִירָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IR"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ir.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MY",
+      "nameHe": "מָלֵיזְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MY"
+      },
+      "capital": {
+        "status": "clarified-with-source",
+        "sourceUrl": "https://data.un.org/en/iso/my.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "meaning-and-language-supported",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MN",
+      "nameHe": "מוֹנְגּוֹלְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MN"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/mn.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "MN",
+          "field": "funFactHe",
+          "reason": "יש להבחין בין כיבושי ג׳ינגיס חאן לשטח המרבי של האימפריה תחת יורשיו."
+        }
+      ]
+    },
+    {
+      "code": "KZ",
+      "nameHe": "קָזַחְסְטָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KZ"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/kz.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "BD",
+      "nameHe": "בַּנְגְלַדֵּשׁ",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/bd.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "BD",
+          "field": "funFactHe",
+          "reason": "מספר הריקשות דורש מקור, שנה ותחום גאוגרפי."
+        }
+      ]
+    },
+    {
+      "code": "KH",
+      "nameHe": "קַמְבּוֹדְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KH"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/kh.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "QA",
+      "nameHe": "קָטַאר",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=QA"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/qa.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "IQ",
+      "nameHe": "עִירָק",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IQ"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/iq.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "BT",
+      "nameHe": "בּוּטָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BT"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/bt.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MV",
+      "nameHe": "מַלְדִיבִים",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MV"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/mv.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "meaning-and-language-supported",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "MV",
+          "field": "funFactHe",
+          "reason": "גובה מרבי מוחלט דורש הבחנה בין נקודה טבעית לאיים שהוגבהו מלאכותית."
+        }
+      ]
+    },
+    {
+      "code": "UZ",
+      "nameHe": "אוּזְבֶּקִיסְטָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UZ"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/uz.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MM",
+      "nameHe": "בּוּרְמָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MM"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/mm.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "LK",
+      "nameHe": "סְרִי לַנְקָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LK"
+      },
+      "capital": {
+        "status": "clarified-with-source",
+        "sourceUrl": "https://data.un.org/en/iso/lk.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "OM",
+      "nameHe": "עוֹמַאן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=OM"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/om.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "LB",
+      "nameHe": "לְבָנוֹן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LB"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/lb.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "YE",
+      "nameHe": "תֵּימָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=YE"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ye.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "SY",
+      "nameHe": "סוּרְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SY"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/sy.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "AM",
+      "nameHe": "אַרְמֶנְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AM"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/am.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "AF",
+      "nameHe": "אַפְגָּנִיסְטָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AF"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/af.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "LA",
+      "nameHe": "לָאוֹס",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LA"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/la.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "AZ",
+      "nameHe": "אֲזֶרְבַּיְגָ'ן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AZ"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/az.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "KW",
+      "nameHe": "כּוּוֵית",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KW"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/kw.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "KG",
+      "nameHe": "קִירְגִּיזְסְטָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KG"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/kg.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "TJ",
+      "nameHe": "טַגִ'יקִיסְטָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TJ"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/tj.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "TM",
+      "nameHe": "טוּרְקְמֶנִיסְטָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TM"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/tm.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "BH",
+      "nameHe": "בַּחְרֵין",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BH"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/bh.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "KP",
+      "nameHe": "צְפוֹן קוֹרֵיאָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KP"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/kp.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "FR",
+      "nameHe": "צָרְפַת",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FR"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/fr.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "FR",
+          "field": "funFactHe",
+          "reason": "הטענה על 1,200 סוגי גבינה דורשת הגדרת סוג ומקור."
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "nameHe": "בְּרִיטַנְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GB"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/gb.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "IT",
+      "nameHe": "אִיטַלְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IT"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/it.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "DE",
+      "nameHe": "גֶּרְמַנְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DE"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/de.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "ES",
+      "nameHe": "סְפָרַד",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ES"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/es.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "GR",
+      "nameHe": "יָוָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GR"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/gr.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "NL",
+      "nameHe": "הוֹלַנְד",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NL"
+      },
+      "capital": {
+        "status": "clarified-with-source",
+        "sourceUrl": "https://data.un.org/en/iso/nl.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "RU",
+      "nameHe": "רוּסְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RU"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ru.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "RU",
+          "field": "representative.descriptionHe",
+          "reason": "חלקם של הדובים ברוסיה מכלל דובי העולם אינו מתועד."
+        }
+      ]
+    },
+    {
+      "code": "GE",
+      "nameHe": "גֵּאוֹרְגְּיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GE"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ge.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "PT",
+      "nameHe": "פּוֹרְטוּגַל",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PT"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/pt.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "CH",
+      "nameHe": "שְׁוֵיצַרְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CH"
+      },
+      "capital": {
+        "status": "clarified-with-source",
+        "sourceUrl": "https://data.un.org/en/iso/ch.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "selected-list-supported",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "SE",
+      "nameHe": "שְׁוֵדְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SE"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/se.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "NO",
+      "nameHe": "נוֹרְבֶגְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NO"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/no.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "PL",
+      "nameHe": "פּוֹלִין",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PL"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/pl.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "DK",
+      "nameHe": "דֶּנְמַרְק",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DK"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/dk.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "AT",
+      "nameHe": "אוֹסְטְרִיָּה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AT"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/at.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "BE",
+      "nameHe": "בֶּלְגִּיָּה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BE"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/be.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "selected-list-supported",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "BE",
+          "field": "funFactHe",
+          "reason": "ייחוס המצאת הוופל והצ׳יפס דורש מקורות היסטוריים והבחנה בין מסורות."
+        }
+      ]
+    },
+    {
+      "code": "FI",
+      "nameHe": "פִינְלַנְד",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FI"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/fi.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "selected-list-supported",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "IE",
+      "nameHe": "אִירְלַנְד",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IE"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ie.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "CZ",
+      "nameHe": "צֶ'כְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CZ"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/cz.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "UA",
+      "nameHe": "אוּקְרַאִינָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UA"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ua.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "HU",
+      "nameHe": "הוּנְגַּרְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HU"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/hu.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "HU",
+          "field": "representative.descriptionHe",
+          "reason": "דירוג הצעצוע הנמכר ביותר דורש תקופה ושיטת מדידה."
+        }
+      ]
+    },
+    {
+      "code": "RO",
+      "nameHe": "רוּמֶנְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RO"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ro.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "IS",
+      "nameHe": "אִיסְלַנְד",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IS"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/is.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "HR",
+      "nameHe": "קְרוֹאַטְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HR"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/hr.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "BG",
+      "nameHe": "בּוּלְגַּרְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BG"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/bg.html"
+      },
+      "currency": {
+        "status": "corrected-or-clarified-with-source",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "RS",
+      "nameHe": "סֶרְבְּיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RS"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/rs.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "EE",
+      "nameHe": "אֶסְטוֹנְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=EE"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ee.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "LT",
+      "nameHe": "לִיטָא",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LT"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/lt.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "SK",
+      "nameHe": "סְלוֹבַקְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SK"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/sk.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": [
+        {
+          "code": "SK",
+          "field": "representative.descriptionHe",
+          "reason": "מספר טירות ביחס לשטח דורש הגדרה והשוואה."
+        }
+      ]
+    },
+    {
+      "code": "SI",
+      "nameHe": "סְלוֹבֶנְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SI"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/si.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "LV",
+      "nameHe": "לַטְבִיָּה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LV"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/lv.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "AL",
+      "nameHe": "אַלְבָּנְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AL"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/al.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "LU",
+      "nameHe": "לוּקְסֶמְבּוּרְג",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LU"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/lu.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "LU",
+          "field": "funFactHe",
+          "reason": "המדינה העשירה ביותר תלויה במדד, בשנת המדידה ובמקור."
+        }
+      ]
+    },
+    {
+      "code": "MT",
+      "nameHe": "מַלְטָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MT"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/mt.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "meaning-and-language-supported",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "BY",
+      "nameHe": "בֵּלָארוּס",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BY"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/by.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MD",
+      "nameHe": "מוֹלְדֹבָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MD"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/md.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "CY",
+      "nameHe": "קַפְרִיסִין",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CY"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/cy.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "BA",
+      "nameHe": "בּוֹסְנְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BA"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ba.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MK",
+      "nameHe": "מַקְדוֹנְיָה הַצְּפוֹנִית",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MK"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/mk.html"
+      },
+      "currency": {
+        "status": "corrected-or-clarified-with-source",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "ME",
+      "nameHe": "מוֹנְטֶנֶגְרוֹ",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ME"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/me.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "AD",
+      "nameHe": "אַנְדוֹרָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AD"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ad.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MC",
+      "nameHe": "מוֹנָקוֹ",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MC"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/mc.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "LI",
+      "nameHe": "לִיכְטֶנְשְׁטַיְין",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LI"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/li.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "SM",
+      "nameHe": "סַן מָרִינוֹ",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SM"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/sm.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "EG",
+      "nameHe": "מִצְרַיִם",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=EG"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/eg.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "ZA",
+      "nameHe": "דְּרוֹם אַפְרִיקָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ZA"
+      },
+      "capital": {
+        "status": "clarified-with-source",
+        "sourceUrl": "https://data.un.org/en/iso/za.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MA",
+      "nameHe": "מָרוֹקוֹ",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MA"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ma.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "KE",
+      "nameHe": "קֵנְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KE"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ke.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "NG",
+      "nameHe": "נִיגֶרְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NG"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ng.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "ET",
+      "nameHe": "אֶתְיוֹפְּיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ET"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/et.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "TZ",
+      "nameHe": "טַנְזַנְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TZ"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/tz.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "GH",
+      "nameHe": "גָּאנָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GH"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/gh.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "meaning-and-language-supported",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MG",
+      "nameHe": "מָדַגַסְקָר",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MG"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/mg.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "MG",
+          "field": "funFactHe",
+          "reason": "אחוז אנדמיות מחייב הגדרה: אילו קבוצות בעלי חיים וצמחים נכללות."
+        }
+      ]
+    },
+    {
+      "code": "DZ",
+      "nameHe": "אַלְגִ'רְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DZ"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/dz.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "CD",
+      "nameHe": "קוֹנְגּוֹ הַדֵּמוֹקְרָטִית",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CD"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/cd.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "UG",
+      "nameHe": "אוּגַנְדָּה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UG"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ug.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "meaning-and-language-supported",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": [
+        {
+          "code": "UG",
+          "field": "representative.descriptionHe",
+          "reason": "מספר הגורילות וחלקן באוגנדה דורשים מפקד ותאריך."
+        }
+      ]
+    },
+    {
+      "code": "TN",
+      "nameHe": "תּוּנִיסְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TN"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/tn.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "CM",
+      "nameHe": "קָמֶרוּן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CM"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/cm.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "CM",
+          "field": "funFactHe",
+          "reason": "שנת ההתפרצות האחרונה היא נתון משתנה; אין להחליף 2000 ב־2012 על סמך דיווחים לא מאומתים."
+        }
+      ]
+    },
+    {
+      "code": "SN",
+      "nameHe": "סֶנֶגַל",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SN"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/sn.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "SN",
+          "field": "funFactHe",
+          "reason": "צבע אגם רטבה משתנה; יש לאמת שהניסוח מתאים למצבו כיום."
+        }
+      ]
+    },
+    {
+      "code": "RW",
+      "nameHe": "רְוַואנְדָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RW"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/rw.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "selected-list-supported",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": [
+        {
+          "code": "RW",
+          "field": "representative.descriptionHe",
+          "reason": "מספר הגורילות וחלוקתן בין מדינות דורשים מפקד ותאריך."
+        }
+      ]
+    },
+    {
+      "code": "NA",
+      "nameHe": "נָמִיבְּיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NA"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/na.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "ZW",
+      "nameHe": "זִימְבַּבְּוֶה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ZW"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/zw.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "ZW",
+          "field": "representative.descriptionHe",
+          "reason": "מרחק שמיעת המפלים תלוי בתנאים; נתון 40 ק״מ דורש מקור."
+        }
+      ]
+    },
+    {
+      "code": "CI",
+      "nameHe": "חוֹף הַשְּׁנַהָב",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CI"
+      },
+      "capital": {
+        "status": "clarified-with-source",
+        "sourceUrl": "https://data.un.org/en/iso/ci.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "AO",
+      "nameHe": "אַנְגּוֹלָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AO"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ao.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "SD",
+      "nameHe": "סוּדָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SD"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/sd.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "ZM",
+      "nameHe": "זַמְבְּיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ZM"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/zm.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "BW",
+      "nameHe": "בּוֹצְוַאנָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BW"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/bw.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "BW",
+          "field": "funFactHe",
+          "reason": "טענת איכות היהלומים היא דירוג לא מוגדר."
+        }
+      ]
+    },
+    {
+      "code": "LY",
+      "nameHe": "לוּב",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LY"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ly.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MZ",
+      "nameHe": "מוֹזַמְבִּיק",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MZ"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/mz.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "ML",
+      "nameHe": "מַאלִי",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ML"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ml.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "SO",
+      "nameHe": "סוֹמַלְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SO"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/so.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MW",
+      "nameHe": "מָלַאוִוי",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MW"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/mw.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "ER",
+      "nameHe": "אֶרִיתְרְאָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ER"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/er.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "SS",
+      "nameHe": "דְּרוֹם סוּדָן",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SS"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ss.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "US",
+      "nameHe": "אַרְצוֹת הַבְּרִית",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=US"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/us.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "CA",
+      "nameHe": "קָנָדָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CA"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ca.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "MX",
+      "nameHe": "מֶקְסִיקוֹ",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MX"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/mx.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "CU",
+      "nameHe": "קוּבָּה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CU"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/cu.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "CR",
+      "nameHe": "קוֹסְטָה רִיקָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CR"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/cr.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "JM",
+      "nameHe": "גָ'מַיְקָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JM"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/jm.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "meaning-and-language-supported",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "DO",
+      "nameHe": "הָרֶפּוּבְּלִיקָה הַדּוֹמִינִיקָנִית",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=DO"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/do.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "GT",
+      "nameHe": "גּוּאָטֵמָלָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GT"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/gt.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "PA",
+      "nameHe": "פָּנַמָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PA"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/pa.html"
+      },
+      "currency": {
+        "status": "corrected-or-clarified-with-source",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "PA",
+          "field": "representative.descriptionHe",
+          "reason": "החיסכון במרחק תלוי בנתיב ההפלגה."
+        },
+        {
+          "code": "PA",
+          "field": "funFactHe",
+          "reason": "מספר הספינות השנתי דורש שנה ומקור."
+        }
+      ]
+    },
+    {
+      "code": "HT",
+      "nameHe": "הַאִיטִי",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HT"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ht.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "HN",
+      "nameHe": "הוֹנְדּוּרַס",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=HN"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/hn.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "NI",
+      "nameHe": "נִיקָרָגְוָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NI"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ni.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": [
+        {
+          "code": "NI",
+          "field": "representative.descriptionHe",
+          "reason": "מספר הרי הגעש תלוי בהגדרת פעיל ובתקופת המדידה."
+        }
+      ]
+    },
+    {
+      "code": "SV",
+      "nameHe": "אֶל סַלְוָדוֹר",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SV"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/sv.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "TT",
+      "nameHe": "טְרִינִידָד וְטוֹבָּגוֹ",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TT"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/tt.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "BR",
+      "nameHe": "בְּרָזִיל",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BR"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/br.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "AR",
+      "nameHe": "אַרְגֶּנְטִינָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AR"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ar.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "PE",
+      "nameHe": "פֶּרוּ",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PE"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/pe.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "CL",
+      "nameHe": "צ'ִילֵה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CL"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/cl.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": [
+        {
+          "code": "CL",
+          "field": "funFactHe",
+          "reason": "הארוכה והצרה ביותר הן טענות דירוג שדורשות הגדרת מדידה."
+        }
+      ]
+    },
+    {
+      "code": "CO",
+      "nameHe": "קוֹלוֹמְבִּיָּה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CO"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/co.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "EC",
+      "nameHe": "אֶקְוָדוֹר",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=EC"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ec.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "corrected-with-source"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "BO",
+      "nameHe": "בּוֹלִיבְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BO"
+      },
+      "capital": {
+        "status": "clarified-with-source",
+        "sourceUrl": "https://data.un.org/en/iso/bo.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "VE",
+      "nameHe": "וֶנֶצְוֵאלָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VE"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ve.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "UY",
+      "nameHe": "אוּרוּגְוַאי",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UY"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/uy.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "PY",
+      "nameHe": "פָּרַגְוַאי",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PY"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/py.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "GY",
+      "nameHe": "גַּיָאנָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GY"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/gy.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "SR",
+      "nameHe": "סוּרִינָאם",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SR"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/sr.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "AU",
+      "nameHe": "אוֹסְטְרַלְיָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AU"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/au.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "corrected-with-source",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "NZ",
+      "nameHe": "נְיוּ זִילַנְד",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NZ"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/nz.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "PG",
+      "nameHe": "פָּפּוּאָה גִינֵאָה הַחֲדָשָׁה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PG"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/pg.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "FJ",
+      "nameHe": "פִיגִ'י",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=FJ"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/fj.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "selected-list-supported",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "WS",
+      "nameHe": "סָמוֹאָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=WS"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/ws.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    },
+    {
+      "code": "TO",
+      "nameHe": "טוֹנְגָה",
+      "population": {
+        "status": "matched-source",
+        "year": 2025,
+        "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TO"
+      },
+      "capital": {
+        "status": "cross-checked-2025-profile",
+        "sourceUrl": "https://data.un.org/en/iso/to.html"
+      },
+      "currency": {
+        "status": "cross-checked-profile-and-code-list",
+        "legalTenderExhaustivelyVerified": false
+      },
+      "languages": {
+        "status": "screened-not-externally-verified",
+        "exhaustive": false
+      },
+      "greeting": {
+        "status": "screened-not-externally-verified",
+        "hebrewPronunciationVerified": false
+      },
+      "content": {
+        "representative.descriptionHe": "screened-not-externally-verified",
+        "funFactHe": "screened-not-externally-verified"
+      },
+      "openQuestions": []
+    }
+  ]
+}

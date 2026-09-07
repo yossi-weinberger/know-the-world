@@ -9,7 +9,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Jerusalem", he: "יְרוּשָׁלַיִם" },
     currency: { code: "ILS", symbol: "₪", nameHe: "שֶׁקֶל חָדָשׁ" },
     languages: [{ he: "עִבְרִית" }],
-    population: { value: 9900000, year: 2024 },
+    population: {"value":10122800,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IL","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌿",
       titleHe: "עֵץ הַזַּיִת",
@@ -28,11 +28,11 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Tokyo", he: "טוֹקְיוֹ" },
     currency: { code: "JPY", symbol: "¥", nameHe: "יֶן יַפָּנִי" },
     languages: [{ he: "יַפָּנִית" }],
-    population: { value: 123600000, year: 2024 },
+    population: {"value":123366734,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JP","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌸",
       titleHe: "פְּרִיחַת הַדּוּבְדְּבָן",
-      descriptionHe: "פְּרִיחַת הַדּוּבְדְּבָן (סָקוּרָה) הִיא סֵמֶל יַפָּנִי מְפֻרְסָם. פַּעַם בְּשָׁנָה כָּל הַמְּדִינָה מִתְכַּסֶּה בְּפְּרָחִים וָרֻדִּים.",
+      descriptionHe: "פְּרִיחַת הַדֻּבְדְּבָן, סָקוּרָה, מֻכֶּרֶת בְּיַפָּן. עוֹנַת הַפְּרִיחָה מִשְׁתַּנָּה בֵּין הָאֲזוֹרִים: בַּדָּרוֹם הִיא מַתְחִילָה מֻקְדָּם יוֹתֵר, וּבַצָּפוֹן מְאֻחָר יוֹתֵר.",
     },
     funFactHe: "בְּיַפָּן יֵשׁ רַכָּבוֹת מַהִירוֹת מְאֹד שֶׁנִּקְרָאוֹת שִׁינְקַנְסֶן — הֵן נוֹסְעוֹת בְּמַהִירוּת שֶׁל 320 קִ\"מ בְּשָׁעָה!",
     hello: { text: "こんにちは", pronunciationHe: "קוֹנִיצִ'יוָה" },
@@ -47,7 +47,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Beijing", he: "בֵּיגִ'ינְג" },
     currency: { code: "CNY", symbol: "¥", nameHe: "יוּאָן סִינִי" },
     languages: [{ he: "סִינִית מַנְדָּרִינִית" }],
-    population: { value: 1409700000, year: 2024 },
+    population: {"value":1406585000,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CN","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🐼",
       titleHe: "פַּנְדָּה",
@@ -66,11 +66,11 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "New Delhi", he: "נְיוּ דֶּלְהִי" },
     currency: { code: "INR", symbol: "₹", nameHe: "רוּפִּי הוֹדִי" },
     languages: [{ he: "הִינְדִי" }, { he: "אַנְגְּלִית" }],
-    population: { value: 1441700000, year: 2024 },
+    population: {"value":1463865525,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IN","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🐅",
       titleHe: "טִיגְרִיס בֶּנְגָּלִי",
-      descriptionHe: "הַטִּיגְרִיס הַבֶּנְגָּלִי הוּא בַּעַל הַחַיִּים הַלְּאֻמִּי שֶׁל הוֹדּוּ. זֶהוּ הַטִּיגְרִיס הַגָּדוֹל בְּיוֹתֵר בָּעוֹלָם.",
+      descriptionHe: "הַטִּיגְרִיס הַבֶּנְגָּלִי הוּא בַּעַל הַחַיִּים הַלְּאֻמִּי שֶׁל הוֹדּוּ. גּוּפוֹ מְכֻסֶּה פַּסִּים כֵּהִים, וְהוּא טוֹרֵף גָּדוֹל וְחָזָק.",
     },
     funFactHe: "הוֹדּוּ הִיא בֵּית הַמֹּלֶדֶת שֶׁל הַשַּׁחְמָט — וְגַם שֶׁל הַסִּפְרָה אֶפֶס, שֶׁבִּלְעָדֶיהָ אֵין חֶשְׁבּוֹן כְּמוֹ שֶׁאֲנַחְנוּ מַכִּירִים הַיּוֹם!",
     hello: { text: "नमस्ते", pronunciationHe: "נַמַסְטֶה" },
@@ -85,7 +85,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Ankara", he: "אַנְקָרָה" },
     currency: { code: "TRY", symbol: "₺", nameHe: "לִירָה טוּרְקִית" },
     languages: [{ he: "טוּרְקִית" }],
-    population: { value: 85400000, year: 2024 },
+    population: {"value":85878556,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TR","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌉",
       titleHe: "מֵצַר הַבּוֹסְפּוֹר",
@@ -104,13 +104,13 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Seoul", he: "סֵאוּל" },
     currency: { code: "KRW", symbol: "₩", nameHe: "וֹן קוֹרֵיאָנִי" },
     languages: [{ he: "קוֹרֵיאָנִית" }],
-    population: { value: 51700000, year: 2024 },
+    population: {"value":51684564,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KR","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "✍️",
       titleHe: "הַכְּתָב הַקּוֹרֵיאנִי",
-      descriptionHe: "לְקוֹרֵיאָה יֵשׁ כְּתָב מְיֻחָד שֶׁהוּמְצָא לְפָנֵי כְּ-500 שָׁנָה — הוּא פָּשׁוּט לִלְמִידָה, וְיַלְדֵי קוֹרֵיאָה לוֹמְדִים לִקְרֹא מַהֵר.",
+      descriptionHe: "הַכְּתָב הַקּוֹרֵיאָנִי, הַנְגּוּל, פֻּתַּח בִּימֵי הַמֶּלֶךְ סֵג'וֹנְג. פִּתּוּחוֹ הֻשְׁלַם בִּשְׁנַת 1443, וְהוּא פֻּרְסַם בִּשְׁנַת 1446.",
     },
-    funFactHe: "כִּמְעַט חֲצִי מִדְּרוֹם קוֹרֵיאָה מְכֻסָּה הָרִים. בֵּין הֶהָרִים יֵשׁ גַּם אִיִּים קְטַנִּים עַל הַיָּם.",
+    funFactHe: "דְּרוֹם קוֹרֵיאָה הִיא אֶרֶץ הֲרָרִית. בַּמִּזְרָח הֶהָרִים גְּבוֹהִים יוֹתֵר, וּבַמַּעֲרָב וּבַדָּרוֹם יֵשׁ יוֹתֵר אֲזוֹרִים נְמוּכִים.",
     hello: { text: "안녕하세요", pronunciationHe: "אַן-נְיוֹנְג הַסֵּיוֹ" },
   },
 
@@ -123,14 +123,14 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Bangkok", he: "בַּנְגְּקוֹק" },
     currency: { code: "THB", symbol: "฿", nameHe: "בָּאט תַּאִי" },
     languages: [{ he: "תַּאִית" }],
-    population: { value: 71800000, year: 2024 },
+    population: {"value":71619863,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TH","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🐘",
       titleHe: "פִּיל אַסְיָה",
       descriptionHe: "הַפִּיל הוּא הַחַיָּה הַלְּאֻמִּית שֶׁל תַּאִילַנְד — מְאוֹת שָׁנִים שָׁמְשׁוּ הַפִּילִים בְּמִלְחָמוֹת וּבְעֲבוֹדַת יַעַר. הַיּוֹם הֵם מוּגָנִים.",
     },
     funFactHe: "תַּאִילַנְד הִיא הַמְּדִינָה הַיְּחִידָה בְּדְּרוֹם-מִזְרַח אַסְיָה שֶׁלֹּא הָיְתָה תַּחַת שִׁלְטוֹן אֵירוֹפִּאִי מֵעוֹלָם — שְׁמָהּ הָעַתִּיק פֵּרוּשׁוֹ 'אֶרֶץ הַחוֹפְשִׁיִּים'.",
-    hello: { text: "สวัสดีครับ", pronunciationHe: "סַוַאת דִּי" },
+    hello: {"text":"สวัสดี","pronunciationHe":"סַוַאת דִּי","languageHe":"תַּאִית","meaningHe":"שָׁלוֹם"},
   },
 
   {
@@ -142,13 +142,13 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Abu Dhabi", he: "אַבּוּ דַּאבִּי" },
     currency: { code: "AED", symbol: "د.إ", nameHe: "דִּירְהַם אֶמִירָאתִי" },
     languages: [{ he: "עֲרָבִית" }],
-    population: { value: 10000000, year: 2024 },
+    population: {"value":11513149,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AE","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🦅",
       titleHe: "הַבַּז הַנּוֹדֵד",
       descriptionHe: "הַבַּז הַנּוֹדֵד הוּא סֵמֶל הָאֵמִירוּיוֹת. צַיִד בַּבַּזִּים הוּא מָסֹרֶת עַתִּיקָה שָׁם.",
     },
-    funFactHe: "בּוּרְג' חֲלִיפָה בְּדוּבַּי הוּא הַבִּנְיָן הַגָּבוֹהַּ בְּיוֹתֵר בָּעוֹלָם — 828 מֶטֶר! וּבַמִּדְבָּר שֶׁלְּיָדוֹ יֵשׁ מִגְרַשׁ סְקִי עִם שֶׁלֶג אֲמִתִּי.",
+    funFactHe: "בְּדוּבַּאי אֶפְשָׁר לִגְלֹשׁ בַּשֶּׁלֶג בְּתוֹךְ מִבְנֶה מְקֹרָר! אֲתַר סְקִי דוּבַּאי נִמְצָא בְּמֶרְכַּז קְנִיּוֹת.",
     hello: { text: "مرحبا", pronunciationHe: "מַרְחַבָּה" },
   },
 
@@ -161,11 +161,11 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Jakarta", he: "גַ'קַרְטָה" },
     currency: { code: "IDR", symbol: "Rp", nameHe: "רוּפִּיָה אִינְדּוֹנֵזִית" },
     languages: [{ he: "אִינְדּוֹנֵזִית" }],
-    population: { value: 278000000, year: 2024 },
+    population: {"value":285721236,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=ID","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🦎",
       titleHe: "דְּרַקוֹן קוֹמוֹדוֹ",
-      descriptionHe: "דְּרַקוֹן קוֹמוֹדוֹ הוּא הַלְּטָאָה הַגְּדוֹלָה בְּיוֹתֵר בָּעוֹלָם — עַד 3 מֶטֶר! הוּא חַי רַק בְּאִינְדּוֹנֵזְיָה, בְּאִי קוֹמוֹדוֹ.",
+      descriptionHe: "דְּרָקוֹן קוֹמוֹדוֹ הוּא הַלְּטָאָה הַגְּדוֹלָה בְּיוֹתֵר בָּעוֹלָם, וְהוּא יָכוֹל לְהַגִּיעַ לְאֹרֶךְ שֶׁל כְּ־3 מֶטְרִים. בַּטֶּבַע הוּא חַי בְּכַמָּה אִיִּים בְּאִינְדּוֹנֶזְיָה.",
     },
     funFactHe: "אִינְדּוֹנֵזְיָה מוֹרְכֶּבֶת מִיּוֹתֵר מ-17,000 אִיִּים! הִיא הַמְּדִינָה הָאַרְכִּיפֶּלָגִית הַגְּדוֹלָה בְּיוֹתֵר בָּעוֹלָם.",
     hello: { text: "Halo", pronunciationHe: "הַאלוֹ" },
@@ -180,11 +180,11 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Amman", he: "עַמָּן" },
     currency: { code: "JOD", symbol: "JD", nameHe: "דִּינָר יַרְדֵּנִי" },
     languages: [{ he: "עֲרָבִית" }],
-    population: { value: 10800000, year: 2024 },
+    population: {"value":11520684,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=JO","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏛️",
       titleHe: "פֶּטְרָה",
-      descriptionHe: "פֶּטְרָה הִיא עִיר עַתִּיקָה שֶׁנֶּחְצְבָה כֻּלָּהּ מִסֶּלַע אָדֹם לִפְנֵי כ-2,000 שָׁנָה. הִיא נִמְנֵית עַל שִׁבְעַת פְּלָאֵי הָעוֹלָם הַחֲדָשִׁים.",
+      descriptionHe: "פֶּטְרָה הִיא עִיר עַתִּיקָה שֶׁל הַנַּבָּטִים בְּיַרְדֵּן. חֵלֶק מִמִּבְנֶיהָ נֶחְצְבוּ בְּסֶלַע אֲדַמְדַּם, וַאֲחֵרִים נִבְנוּ מֵאֲבָנִים.",
     },
     funFactHe: "עֲקַבָה שֶׁבְּיַרְדֵּן נִמְצֵאת עַל יַם סוּף. מִשָּׁם רוֹאִים מַיִם צְלוּלִים וְדָגִים צִבְעוֹנִיִּים.",
     hello: { text: "مرحبا", pronunciationHe: "מַרְחַבָּה" },
@@ -199,13 +199,13 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Riyadh", he: "רִיאָד" },
     currency: { code: "SAR", symbol: "﷼", nameHe: "רִיאַל סַעוּדִי" },
     languages: [{ he: "עֲרָבִית" }],
-    population: { value: 36000000, year: 2024 },
+    population: {"value":36973555,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SA","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌴",
       titleHe: "עֵץ הַתָּמָר",
       descriptionHe: "עֲרַב הַסְּעוּדִית מְכֻסָּה בְּרֻבָּהּ מִדְבָּר. הַתְּמָרִים שֶׁגְּדֵלִים שָׁם נֶחְשָׁבִים מִן הַמְּעֻלִּים בָּעוֹלָם.",
     },
-    funFactHe: "עֲרַב הַסְּעוּדִית מְכִילָה כ-17% מֵרֶזֶרְבוֹת הַנֶּפְט שֶׁל כָּל הָעוֹלָם — זֶה הַאוֹצָר הַגָּדוֹל בְּיוֹתֵר שֶׁל נֶפְט מוּכָּח עַל כַּדּוּר הָאָרֶץ.",
+    funFactHe: "בַּעֲרָב הַסְּעוּדִית נִמְצָאִים מַאֲגָרֵי נֵפְט גְּדוֹלִים מְאֹד. בִּשְׁנַת 2023 הָיוּ בָּהּ כְּ־17% מֵעֲתוּדוֹת הַנֵּפְט הַמֻּכָּחוֹת בָּעוֹלָם.",
     hello: { text: "مرحبا", pronunciationHe: "מַרְחַבָּה" },
   },
 
@@ -218,7 +218,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Hanoi", he: "הָאנוֹי" },
     currency: { code: "VND", symbol: "₫", nameHe: "דּוֹנְג וְיֶטְנָמִי" },
     languages: [{ he: "וְיֶטְנָמִית" }],
-    population: { value: 98000000, year: 2024 },
+    population: {"value":101598527,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=VN","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🍜",
       titleHe: "מָרַק פוֹ",
@@ -237,7 +237,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Manila", he: "מָנִילָה" },
     currency: { code: "PHP", symbol: "₱", nameHe: "פֶּסוֹ פִילִיפִּינִי" },
     languages: [{ he: "פִילִיפִינִית" }, { he: "אַנְגְּלִית" }],
-    population: { value: 115000000, year: 2024 },
+    population: {"value":116786962,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PH","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌺",
       titleHe: "פֶּרַח הַסַּמְפַּגִיטָה",
@@ -255,8 +255,8 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     continentHe: "אַסְיָה",
     capital: { en: "Singapore", he: "סִינְגָּפּוּר" },
     currency: { code: "SGD", symbol: "$", nameHe: "דּוֹלָר סִינְגָּפּוּרִי" },
-    languages: [{ he: "אַנְגְּלִית" }, { he: "סִינִית" }, { he: "מָלַאיִית" }],
-    population: { value: 5900000, year: 2024 },
+    languages: [{"he":"אַנְגְּלִית"},{"he":"סִינִית מַנְדָּרִינִית"},{"he":"מָלַאיִית"},{"he":"טָמִילִית"}],
+    population: {"value":6111175,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SG","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🚢",
       titleHe: "נְמַל סִינְגָּפּוּר",
@@ -275,7 +275,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Kathmandu", he: "קַטְמַנְדּוּ" },
     currency: { code: "NPR", symbol: "₨", nameHe: "רוּפִּי נֶפָּאלִי" },
     languages: [{ he: "נֶפָּאלִית" }],
-    population: { value: 30000000, year: 2024 },
+    population: {"value":29618118,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NP","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏔️",
       titleHe: "הַר אֶוֶרֶסְט",
@@ -294,7 +294,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Islamabad", he: "אִסְלַאמַבַּאד" },
     currency: { code: "PKR", symbol: "₨", nameHe: "רוּפִּי פָּקִיסְטָנִי" },
     languages: [{ he: "אוּרְדּוּ" }, { he: "אַנְגְּלִית" }],
-    population: { value: 231000000, year: 2024 },
+    population: {"value":255219554,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PK","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏔️",
       titleHe: "הַר K2",
@@ -313,7 +313,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Tehran", he: "טֶהֶרָן" },
     currency: { code: "IRR", symbol: "﷼", nameHe: "רִיאַל אִירָנִי" },
     languages: [{ he: "פָּרְסִית" }],
-    population: { value: 87000000, year: 2024 },
+    population: {"value":92417681,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IR","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌹",
       titleHe: "הַשָּׁטִיחַ הַפַּרְסִי",
@@ -329,17 +329,17 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     nameHe: "מָלֵיזְיָה",
     continent: "Asia",
     continentHe: "אַסְיָה",
-    capital: { en: "Kuala Lumpur", he: "קוּאָלָה לוּמְפּוּר" },
+    capital: {"en":"Kuala Lumpur","he":"קוּאָלָה לוּמְפּוּר","noteHe":"פּוּטְרָגַ'איָה הִיא הַמֶּרְכָּז הַמִּנְהָלִי שֶׁל הַמֶּמְשָׁלָה."},
     currency: { code: "MYR", symbol: "RM", nameHe: "רִינְגִּיט מָלֵיזִי" },
     languages: [{ he: "מָלַאיִית" }],
-    population: { value: 33000000, year: 2024 },
+    population: {"value":35977838,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MY","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏙️",
       titleHe: "מִגְדְּלֵי פֶּטְרוֹנַס",
       descriptionHe: "מִגְדְּלֵי פֶּטְרוֹנַס בְּקוּאָלָה לוּמְפּוּר הָיוּ הַגְּבוֹהִים בָּעוֹלָם בֵּין 1998 ל-2004 — גֹּבָהָם 452 מֶטֶר, מְחֻבָּרִים בְּגֶשֶׁר שֶׁמִּתְנוֹסֵס בַּאֲוִיר!",
     },
     funFactHe: "מָלֵיזְיָה הִיא הַמְּדִינָה הַשְּׁנִיָּה בַּגֹּדֶל לְיַצּוּא שֶׁמֶן דֶּקֶל בָּעוֹלָם — שֶׁמֶן זֶה נִמְצָא בְּלֶחֶם, בִּשְׁוֹקוֹלָד וּבְמוּצָרִים רַבִּים נוֹסָפִים.",
-    hello: { text: "Apa khabar", pronunciationHe: "אַפָּה קַבָּר" },
+    hello: {"text":"Apa khabar","pronunciationHe":"אַפָּה קַבָּר","languageHe":"מָלַאיִית","meaningHe":"מַה שְּׁלוֹמְךָ?"},
   },
 
   {
@@ -351,7 +351,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Ulaanbaatar", he: "אוּלָאן בָּאטוֹר" },
     currency: { code: "MNT", symbol: "₮", nameHe: "טוּגְרִיק מוֹנְגּוֹלִי" },
     languages: [{ he: "מוֹנְגּוֹלִית" }],
-    population: { value: 3400000, year: 2024 },
+    population: {"value":3568978,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MN","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏕️",
       titleHe: "הַיּוּרְט — הָאֹהֶל הַמּוֹנְגּוֹלִי",
@@ -370,11 +370,11 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Astana", he: "אַסְטַאנָה" },
     currency: { code: "KZT", symbol: "₸", nameHe: "טֶנְגֶה קָזַחִי" },
     languages: [{ he: "קָזַחִית" }, { he: "רוּסִית" }],
-    population: { value: 19000000, year: 2024 },
+    population: {"value":20843754,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KZ","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🦅",
-      titleHe: "נֶשֶׁר הַמִּישׁוֹר",
-      descriptionHe: "הַנֶּשֶׁר הַזָּהָב הוּא סֵמֶל קָזַחְסְטָן — הוּא מְסַמֵּל חֵרוּת וְכֹחַ. צַיָּדִים קָזַחִים מְאַלְּפִים נְשָׁרִים לְצֹד אִתָּם מֵאָז מֵאוֹת שָׁנִים.",
+      titleHe: "עֵיט הָעֲרָבוֹת",
+      descriptionHe: "עַל דֶּגֶל קָזַחְסְטָן מוֹפִיעַ עֵיט פְּרוּשׂ כְּנָפַיִם מִתַּחַת לְשֶׁמֶשׁ זְהֻבָּה. הָעֵיט מְסַמֵּל עַצְמָאוּת וּשְׁאִיפָה לְהַגִּיעַ לְגֹבַהּ.",
     },
     funFactHe: "קָזַחְסְטָן הִיא הַמְּדִינָה הַמְּסֻגֶּרֶת (לְלֹא גִּישָׁה לַיָּם) הַגְּדוֹלָה בְּיוֹתֵר בָּעוֹלָם — גְּדוֹלָה יוֹתֵר מִכָּל מֶרְחַב מַעֲרַב אֵירוֹפָּה גַּם יַחַד!",
     hello: { text: "Сәлем", pronunciationHe: "סָלֶם" },
@@ -389,7 +389,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Dhaka", he: "דָּאקָה" },
     currency: { code: "BDT", symbol: "৳", nameHe: "טָקָה בַּנְגְלַדֵּשִׁי" },
     languages: [{ he: "בֶּנְגָּלִית" }],
-    population: { value: 170000000, year: 2024 },
+    population: {"value":175686899,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🚣",
       titleHe: "דֶּלְטַת הַנְּהָרוֹת",
@@ -408,7 +408,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Phnom Penh", he: "פְּנוֹם פֶּן" },
     currency: { code: "KHR", symbol: "៛", nameHe: "רִיֶּאל קַמְבּוֹדִי" },
     languages: [{ he: "חְמֶרִית" }],
-    population: { value: 17000000, year: 2024 },
+    population: {"value":17847982,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KH","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌊",
       titleHe: "אֲגַם טוֹנְלֵה סַפּ",
@@ -427,7 +427,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Doha", he: "דוֹחָה" },
     currency: { code: "QAR", symbol: "﷼", nameHe: "רִיאַל קָטָרִי" },
     languages: [{ he: "עֲרָבִית" }],
-    population: { value: 2900000, year: 2024 },
+    population: {"value":2972215,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=QA","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏜️",
       titleHe: "חֲצִי אִי בַּמִּדְבָּר",
@@ -446,7 +446,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Baghdad", he: "בַּגְדַּאד" },
     currency: { code: "IQD", symbol: "ع.د", nameHe: "דִּינָר עִירָקִי" },
     languages: [{ he: "עֲרָבִית" }, { he: "כּוּרְדִּית" }],
-    population: { value: 42000000, year: 2024 },
+    population: {"value":47020774,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IQ","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "📜",
       titleHe: "הַגְּמָרָא",
@@ -465,7 +465,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Thimphu", he: "תִימְפּוּ" },
     currency: { code: "BTN", symbol: "Nu", nameHe: "נוּלְטְרוּם בּוּטַנִי" },
     languages: [{ he: "דְּזוֹנְגְּקָה" }],
-    population: { value: 780000, year: 2024 },
+    population: {"value":796682,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BT","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏔️",
       titleHe: "הָרֵי הַהִימָלַיָה",
@@ -484,14 +484,14 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Malé", he: "מָאלֵה" },
     currency: { code: "MVR", symbol: "Rf", nameHe: "רוּפִּיָיה מַלְדִיבִית" },
     languages: [{ he: "דִיוֶהִי" }],
-    population: { value: 520000, year: 2024 },
+    population: {"value":529676,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MV","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏝️",
       titleHe: "אִיֵּי הָאֲלְמוּגִים",
       descriptionHe: "מַלְדִיבִים הִיא שַׁרְשֶׁרֶת שֶׁל 1,192 אִיִּים קְטַנִּים בָּאוֹקְיָינוֹס הַהֹדִי. שׂוֹנִיּוֹת הָאֲלְמוּגִים שֶׁלָּהּ הֵן מִן הַיָּפִות בָּעוֹלָם.",
     },
     funFactHe: "מַלְדִיבִים הִיא הַמְּדִינָה הַנְּמוּכָה בְּיוֹתֵר בָּעוֹלָם — נְקֻדַּת הַשִּׁיא שֶׁלָּהּ הִיא רַק 2.4 מֶטֶר מֵעַל פְּנֵי הַיָּם! עֵלִיַּת מֵי הַיָּם בְּשֶׁל הִתְחַמְּמוּת גְּלוֹבָלִית מְאַיֶּמֶת לְהַצִּיף אוֹתָהּ.",
-    hello: { text: "Haalu kihineh?", pronunciationHe: "הָאלוּ קִיהִינֶה" },
+    hello: {"text":"Haalu kihineh?","pronunciationHe":"הָאלוּ קִיהִינֶה","languageHe":"דִיוֶהִי","meaningHe":"מַה שְּׁלוֹמְךָ?"},
   },
 
   {
@@ -503,7 +503,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Tashkent", he: "טַשְׁקֶנְט" },
     currency: { code: "UZS", symbol: "сум", nameHe: "סוּם אוּזְבֶּקִי" },
     languages: [{ he: "אוּזְבֶּקִית" }],
-    population: { value: 36000000, year: 2024 },
+    population: {"value":37053428,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UZ","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏙️",
       titleHe: "סָמַרְקַנְד",
@@ -522,7 +522,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Naypyidaw", he: "נַיְפִּידוֹ" },
     currency: { code: "MMK", symbol: "K", nameHe: "קְיָאט בּוּרְמִי" },
     languages: [{ he: "בּוּרְמִית" }],
-    population: { value: 54000000, year: 2024 },
+    population: {"value":54850648,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=MM","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🚣",
       titleHe: "אֲגַם אִינְלֵה",
@@ -538,10 +538,10 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     nameHe: "סְרִי לַנְקָה",
     continent: "Asia",
     continentHe: "אַסְיָה",
-    capital: { en: "Colombo", he: "קוֹלוֹמְבּוֹ" },
+    capital: {"en":"Colombo / Sri Jayawardenepura Kotte","he":"קוֹלוֹמְבּוֹ / סְרִי גַ'יָיוַרְדֶנֶפּוּרָה קוֹטֶה","noteHe":"קוֹטֶה הִיא בִּירַת הַחֲקִיקָה וּמוֹשַׁב הַפַּרְלָמֶנְט."},
     currency: { code: "LKR", symbol: "₨", nameHe: "רוּפִּי שֶׁל סְרִי לַנְקָה" },
     languages: [{ he: "סִינְהָלִית" }, { he: "טָמִילִית" }],
-    population: { value: 22000000, year: 2024 },
+    population: {"value":21756000,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LK","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🍃",
       titleHe: "תֵּה צֵ'יְלוֹן",
@@ -560,13 +560,13 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Muscat", he: "מַסְקַט" },
     currency: { code: "OMR", symbol: "﷼", nameHe: "רִיאַל עוֹמַאנִי" },
     languages: [{ he: "עֲרָבִית" }],
-    population: { value: 4600000, year: 2024 },
+    population: {"value":5494691,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=OM","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌿",
       titleHe: "לְבוֹנָה",
       descriptionHe: "עוֹמַאן הָיְתָה מֶרְכַּז יְצוּא לְבוֹנָה — הַשֶּׂרָף הָרֵיחָנִי שֶׁהִבִּיאוּ גַּם לְבֵית הַמִּקְדָּשׁ בִּירוּשָׁלַיִם.",
     },
-    funFactHe: "עוֹמַאן הִיא מֵהַמְּדִינוֹת הָעַתִּיקוֹת בְּמִסְחָר בַּיָּם — סְפִינוֹת מֵעוֹמַאן הִגִּיעוּ לְהוֹדּוּ, לְסִין וּלְחֹוף הַנְּחֹשֶׁת (זַמְבְּיָה הַמּוֹדֶרְנִית) לִפְנֵי 4,000 שָׁנָה!",
+    funFactHe: "כְּבָר לִפְנֵי אַלְפֵי שָׁנִים סָחֲרוּ תּוֹשָׁבֵי עוֹמַאן דֶּרֶךְ הַיָּם בִּנְחֹשֶׁת וּבִסְחוֹרוֹת נוֹסָפוֹת. בִּתְקוּפוֹת מְאֻחָרוֹת יוֹתֵר הִגִּיעוּ קִשְׁרֵי הַמִּסְחָר שֶׁלָּהֶם עַד סִין וּמִזְרַח אַפְרִיקָה.",
     hello: { text: "مرحبا", pronunciationHe: "מַרְחַבָּה" },
   },
 
@@ -579,7 +579,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Beirut", he: "בֵּירוּת" },
     currency: { code: "LBP", symbol: "LL", nameHe: "לִירָה לְבָנוֹנִית" },
     languages: [{ he: "עֲרָבִית" }],
-    population: { value: 5500000, year: 2024 },
+    population: {"value":5849421,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LB","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌲",
       titleHe: "אֶרֶז הַלְּבָנוֹן",
@@ -598,7 +598,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Sana'a", he: "צַנְעָא" },
     currency: { code: "YER", symbol: "﷼", nameHe: "רִיאַל תֵּימָנִי" },
     languages: [{ he: "עֲרָבִית" }],
-    population: { value: 34500000, year: 2024 },
+    population: {"value":41773878,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=YE","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏙️",
       titleHe: "מִגְדְּלֵי בּוֹץ",
@@ -617,7 +617,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Damascus", he: "דַּמֶּשֶׂק" },
     currency: { code: "SYP", symbol: "£", nameHe: "לִירָה סוּרִית" },
     languages: [{ he: "עֲרָבִית" }],
-    population: { value: 23000000, year: 2024 },
+    population: {"value":25620427,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=SY","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏺",
       titleHe: "דַּמֶּשֶׂק",
@@ -636,7 +636,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Yerevan", he: "יֵרֶוָואן" },
     currency: { code: "AMD", symbol: "֏", nameHe: "דְּרַאם אַרְמֶנִי" },
     languages: [{ he: "אַרְמֶנִית" }],
-    population: { value: 2800000, year: 2024 },
+    population: {"value":3086700,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AM","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "⛰️",
       titleHe: "הַר אֲרָרָט",
@@ -655,7 +655,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Kabul", he: "קָאבּוּל" },
     currency: { code: "AFN", symbol: "؋", nameHe: "אַפְגָּנִי" },
     languages: [{ he: "דַּרִית" }, { he: "פַּשְׁטוֹ" }],
-    population: { value: 43000000, year: 2024 },
+    population: {"value":43844111,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AF","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏔️",
       titleHe: "הֶהָרִים הַגְּבוֹהִים",
@@ -674,7 +674,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Vientiane", he: "וְיֶנְטְיַאן" },
     currency: { code: "LAK", symbol: "₭", nameHe: "קִיפּ לָאִי" },
     languages: [{ he: "לָאִית" }],
-    population: { value: 7700000, year: 2024 },
+    population: {"value":7873046,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LA","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌊",
       titleHe: "נְהַר הַמֵּקוֹנְג",
@@ -693,7 +693,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Baku", he: "בַּאקוּ" },
     currency: { code: "AZN", symbol: "₼", nameHe: "מַנַאט אֲזֶרִי" },
     languages: [{ he: "אֲזֶרִית" }],
-    population: { value: 10200000, year: 2024 },
+    population: {"value":10246996,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AZ","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🌊",
       titleHe: "יָם כַּסְפִּי",
@@ -712,7 +712,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Kuwait City", he: "כּוּוֵית סִיטִי" },
     currency: { code: "KWD", symbol: "د.ك", nameHe: "דִּינָר כּוּוֵיתִי" },
     languages: [{ he: "עֲרָבִית" }],
-    population: { value: 4900000, year: 2024 },
+    population: {"value":4865298,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KW","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🛢️",
       titleHe: "נֶפְט",
@@ -731,7 +731,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Bishkek", he: "בִּישְׁקֶק" },
     currency: { code: "KGS", symbol: "сом", nameHe: "סוֹם קִירְגִּיזִי" },
     languages: [{ he: "קִירְגִּיזִית" }, { he: "רוּסִית" }],
-    population: { value: 7100000, year: 2024 },
+    population: {"value":7343064,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KG","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🏔️",
       titleHe: "אֲגַם אִיסִיק־קוּל",
@@ -750,7 +750,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Dushanbe", he: "דּוּשַׁנְבֶּה" },
     currency: { code: "TJS", symbol: "ЅМ", nameHe: "סוֹמוֹנִי" },
     languages: [{ he: "טַגִ'יקִית" }],
-    population: { value: 10100000, year: 2024 },
+    population: {"value":10786734,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TJ","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "⛰️",
       titleHe: "הָרֵי הַפַּמִּיר",
@@ -769,7 +769,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Ashgabat", he: "אַשְׁגָּבַּאט" },
     currency: { code: "TMT", symbol: "m", nameHe: "מַנַאט טוּרְקְמֶנִי" },
     languages: [{ he: "טוּרְקְמֶנִית" }],
-    population: { value: 6500000, year: 2024 },
+    population: {"value":7618847,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TM","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🐎",
       titleHe: "סוּס אַחַל־טֶקֶה",
@@ -788,7 +788,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Manama", he: "מַנַאמָה" },
     currency: { code: "BHD", symbol: "BD", nameHe: "דִּינָר בַּחְרֵינִי" },
     languages: [{ he: "עֲרָבִית" }],
-    population: { value: 1500000, year: 2024 },
+    population: {"value":1600366,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BH","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "🦪",
       titleHe: "פְּנִינִים",
@@ -807,7 +807,7 @@ window.COUNTRIES_DATA = (window.COUNTRIES_DATA || []).concat([
     capital: { en: "Pyongyang", he: "פְּיוֹנְגְיַאנְג" },
     currency: { code: "KPW", symbol: "₩", nameHe: "ווֹן צְפוֹן קוֹרֵיאנִי" },
     languages: [{ he: "קוֹרֵיאָנִית" }],
-    population: { value: 26000000, year: 2024 },
+    population: {"value":26571036,"year":2025,"source":"World Bank — SP.POP.TOTL","sourceUrl":"https://data.worldbank.org/indicator/SP.POP.TOTL?locations=KP","retrievedAt":"2026-09-07","datasetUpdatedAt":"2026-07-13"},
     representative: {
       emoji: "⛰️",
       titleHe: "הֶהָרִים וְהַחֹרֶף",

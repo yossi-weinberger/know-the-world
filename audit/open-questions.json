@@ -1,0 +1,23 @@
+[
+  {"code":"FR","field":"funFactHe","reason":"הטענה על 1,200 סוגי גבינה דורשת הגדרת סוג ומקור."},
+  {"code":"RU","field":"representative.descriptionHe","reason":"חלקם של הדובים ברוסיה מכלל דובי העולם אינו מתועד."},
+  {"code":"BE","field":"funFactHe","reason":"ייחוס המצאת הוופל והצ׳יפס דורש מקורות היסטוריים והבחנה בין מסורות."},
+  {"code":"HU","field":"representative.descriptionHe","reason":"דירוג הצעצוע הנמכר ביותר דורש תקופה ושיטת מדידה."},
+  {"code":"SK","field":"representative.descriptionHe","reason":"מספר טירות ביחס לשטח דורש הגדרה והשוואה."},
+  {"code":"LU","field":"funFactHe","reason":"המדינה העשירה ביותר תלויה במדד, בשנת המדידה ובמקור."},
+  {"code":"MV","field":"funFactHe","reason":"גובה מרבי מוחלט דורש הבחנה בין נקודה טבעית לאיים שהוגבהו מלאכותית."},
+  {"code":"BD","field":"funFactHe","reason":"מספר הריקשות דורש מקור, שנה ותחום גאוגרפי."},
+  {"code":"VN","field":"funFactHe","reason":"חלקה בפלפל השחור בעולם דורש הבחנה בין ייצור ליצוא ושנת מדידה."},
+  {"code":"UG","field":"representative.descriptionHe","reason":"מספר הגורילות וחלקן באוגנדה דורשים מפקד ותאריך."},
+  {"code":"RW","field":"representative.descriptionHe","reason":"מספר הגורילות וחלוקתן בין מדינות דורשים מפקד ותאריך."},
+  {"code":"SN","field":"funFactHe","reason":"צבע אגם רטבה משתנה; יש לאמת שהניסוח מתאים למצבו כיום."},
+  {"code":"ZW","field":"representative.descriptionHe","reason":"מרחק שמיעת המפלים תלוי בתנאים; נתון 40 ק״מ דורש מקור."},
+  {"code":"BW","field":"funFactHe","reason":"טענת איכות היהלומים היא דירוג לא מוגדר."},
+  {"code":"MG","field":"funFactHe","reason":"אחוז אנדמיות מחייב הגדרה: אילו קבוצות בעלי חיים וצמחים נכללות."},
+  {"code":"PA","field":"representative.descriptionHe","reason":"החיסכון במרחק תלוי בנתיב ההפלגה."},
+  {"code":"PA","field":"funFactHe","reason":"מספר הספינות השנתי דורש שנה ומקור."},
+  {"code":"NI","field":"representative.descriptionHe","reason":"מספר הרי הגעש תלוי בהגדרת פעיל ובתקופת המדידה."},
+  {"code":"CL","field":"funFactHe","reason":"הארוכה והצרה ביותר הן טענות דירוג שדורשות הגדרת מדידה."},
+  {"code":"MN","field":"funFactHe","reason":"יש להבחין בין כיבושי ג׳ינגיס חאן לשטח המרבי של האימפריה תחת יורשיו."},
+  {"code":"CM","field":"funFactHe","reason":"שנת ההתפרצות האחרונה היא נתון משתנה; אין להחליף 2000 ב־2012 על סמך דיווחים לא מאומתים."}
+]

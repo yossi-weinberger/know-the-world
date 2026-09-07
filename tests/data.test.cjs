@@ -1,0 +1,16 @@
+const test = require('node:test');
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const path = require('node:path');
+const vm = require('node:vm');
+const { loadCountries, root } = require('../scripts/lib/data.cjs');
+const { validate } = require('../scripts/validate.cjs');
+const snapshot = JSON.parse(fs.readFileSync(path.join(root, 'audit/sources/world-bank-population-2025.json')));
+const context = { window: {} };
+vm.runInNewContext(fs.readFileSync(path.join(root, 'data/sources.js'), 'utf8'), context);
+const sources = context.window.COUNTRY_SOURCES;
+test('all countries satisfy the data contract and match the saved source', () => assert.equal(validate(loadCountries(), sources, snapshot), 150));
+test('validator detects duplicate countries', () => { const data = loadCountries(); data.push(data[0]); assert.throws(() => validate(data, sources, snapshot), /Duplicate country/); });
+test('validator detects missing required text', () => { const data = loadCountries(); data[0].capital.he = ''; assert.throws(() => validate(data, sources, snapshot), /missing capital.he/); });
+test('validator detects population drift', () => { const data = loadCountries(); data[0].population.value += 1; assert.throws(() => validate(data, sources, snapshot), /differs from snapshot/); });
+test('validator rejects unsafe provenance links', () => { const data = loadCountries(); data[0].population.sourceUrl = 'javascript:alert(1)'; assert.throws(() => validate(data, sources, snapshot)); });

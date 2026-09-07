@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>מדינות העולם - חוברת A4 מוכנה לדפוס</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;600;700;800;900&family=Noto+Serif+Hebrew:wght@600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/booklet.css" />
+    <script src="data/asia.js"></script>
+    <script src="data/europe.js"></script>
+    <script src="data/africa.js"></script>
+    <script src="data/north-america.js"></script>
+    <script src="data/south-america.js"></script>
+    <script src="data/oceania.js"></script>
+    <script src="data/country-map-index.js"></script>
+    <script src="js/helpers.js"></script>
+    <script src="js/booklet.js" defer></script>
+  </head>
+  <body>
+    <nav class="booklet-toolbar" aria-label="פעולות חוברת">
+      <a href="index.html">חזרה לכרטיסים</a>
+      <p>תצוגת A4 מוכנה לחוברת: שמונה כרטיסים בכל צד. בהדפסה בחרו גודל אמיתי, דו־צדדי והיפוך בצד הקצר.</p>
+      <a href="#cards-preview">לתצוגת שמונה כרטיסים</a>
+      <button type="button" onclick="window.print()">הדפסת החוברת</button>
+    </nav>
+    <main id="booklet" aria-live="polite"></main>
+  </body>
+</html>
